@@ -1,4 +1,4 @@
-/* Page data (kept as a script variable so the page also runs inside Google Apps Script) */
+/* Hub data. Replace this file to refresh the numbers. */
 window.__QA_DATA = {
  "campaigns": [
   {
@@ -8,7 +8,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-10-09",
    "end": "2026-10-16",
-   "window": "Oct 9 \u2013 16",
+   "window": "Oct 9 – 16",
    "vi": 2060000,
    "eng": 151600,
    "pubs": 75,
@@ -83,7 +83,7 @@ window.__QA_DATA = {
     "72% of views came from content published on reveal day, Oct 9."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/88RgTZvrbQJk9aptaH16n6",
+   "url": "",
    "mix": "The recap deck lists 38 short-form videos, 13 long-form YouTube videos, 12 livestreams and 12 X posts; it reports short-form video at 56% of views and 81% of engagements (10.6% eng. rate).",
    "qid": "q-sonic-crossworlds-preview",
    "sheet": "Sonic Crossworlds Preview",
@@ -96,7 +96,7 @@ window.__QA_DATA = {
    "type": "Event",
    "start": "2026-10-07",
    "end": "2026-10-15",
-   "window": "Oct 7 \u2013 15",
+   "window": "Oct 7 – 15",
    "vi": 557000,
    "eng": 219800,
    "pubs": 143,
@@ -156,7 +156,7 @@ window.__QA_DATA = {
     "Jaden's Reel (85.9K engagements) is also counted in the Year 2 recap."
    ],
    "basis": "video",
-   "url": "https://claude.ai/artifact/DhgZ9XUUi55dr93XqAEFhV",
+   "url": "",
    "qid": "q-club-chaos-content-capture",
    "sheet": "Club Chaos Content Capture",
    "formats": null
@@ -168,7 +168,7 @@ window.__QA_DATA = {
    "type": "Event",
    "start": "2026-09-25",
    "end": "2026-09-30",
-   "window": "Sep 25 \u2013 30",
+   "window": "Sep 25 – 30",
    "vi": 279800,
    "eng": 37000,
    "pubs": 29,
@@ -214,7 +214,7 @@ window.__QA_DATA = {
     "Top three creators (Tea's Eats, BobbyWasabi, ItsTiffanie_tv) drove 94% of views."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/5KXhLmBijH8QY5TyfKsmHA",
+   "url": "",
    "qid": "q-sonic-art-gallery-los-angeles",
    "sheet": "Sonic Art Gallery Los Angeles",
    "formats": null
@@ -226,7 +226,7 @@ window.__QA_DATA = {
    "type": "Event",
    "start": "2026-09-03",
    "end": "2026-09-06",
-   "window": "Sep 3 \u2013 6",
+   "window": "Sep 3 – 6",
    "vi": 316713,
    "eng": 3625,
    "pubs": 12,
@@ -253,7 +253,7 @@ window.__QA_DATA = {
     "X-only quest; one post drove 86% of views."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/7widbjLUg2675FXaRsvfSp",
+   "url": "",
    "qid": "q-sonic-art-gallery-seattle",
    "sheet": "Sonic Art Gallery Seattle",
    "formats": {
@@ -329,7 +329,7 @@ window.__QA_DATA = {
       "eng": 173,
       "platform": "X",
       "kind": "Post",
-      "creator": "Emily \ud83d\udcab \u27a1\ufe0f PAX West",
+      "creator": "Emily 💫 ➡️ PAX West",
       "title": "Got to check out the Sonic Art Gallery here in Seattle! Some wine, art, friends and Sonic, a great way to kick",
       "url": "https://www.twitter.com/page/status/2095688398313029791",
       "date": "2026-09-04"
@@ -339,8 +339,8 @@ window.__QA_DATA = {
       "eng": 119,
       "platform": "X",
       "kind": "Post",
-      "creator": "hai \ud83d\udc30 PAX WEST",
-      "title": "Had so much fun at Sonic art \ud83d\ude3c #SEGACreator #sonic35exhibit https://t.co/2NIWJXRJGp",
+      "creator": "hai 🐰 PAX WEST",
+      "title": "Had so much fun at Sonic art 😼 #SEGACreator #sonic35exhibit https://t.co/2NIWJXRJGp",
       "url": "https://www.twitter.com/page/status/2095723063434461594",
       "date": "2026-09-04"
      },
@@ -369,7 +369,7 @@ window.__QA_DATA = {
    "type": "Sale",
    "start": "2026-08-13",
    "end": "2026-08-27",
-   "window": "Aug 13 \u2013 27",
+   "window": "Aug 13 – 27",
    "vi": 44592,
    "eng": 1615,
    "pubs": 26,
@@ -416,9 +416,11 @@ window.__QA_DATA = {
     }
    ],
    "summary": "SEGA activated Creator Zone members to amplify the Summer Publisher Sale across the Sonic catalogue (Sonic Racing: CrossWorlds, Sonic Frontiers, Sonic X Shadow Generations); 13 creators on five platforms made 26 publications delivering 44,592 views and 1,615 engagements.",
-   "caveats": [],
+   "caveats": [
+    "5 posts (15,659 views) also count toward ATLUS Publisher Sale, Catalogue Summer Sale: RGG / Yakuza."
+   ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/Tsfp5hdn1JMCZd73sccdAw",
+   "url": "",
    "qid": "q-sega-summer-publisher-sale",
    "sheet": "SEGA Summer Publisher Sale",
    "formats": {
@@ -483,7 +485,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "DaftHusky",
-      "title": "There\u2019s so many unlocks \ud83d\ude2d You can score some deep discounts from the SEGA Publisher Sale happening now: https:",
+      "title": "There’s so many unlocks 😭 You can score some deep discounts from the SEGA Publisher Sale happening now: https:",
       "url": "https://www.tiktok.com/@user/video/7675525700719267103",
       "date": "2026-08-19"
      },
@@ -503,7 +505,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "DaftHusky",
-      "title": "There\u2019s so many unlocks \ud83d\ude2d #SEGACreator #SonicRacingCrossworlds #SonicTheHedgehog You can score some deep disco",
+      "title": "There’s so many unlocks 😭 #SEGACreator #SonicRacingCrossworlds #SonicTheHedgehog You can score some deep disco",
       "url": "https://www.instagram.com/p/DcM06V4q7fX/",
       "date": "2026-08-18"
      },
@@ -532,8 +534,8 @@ window.__QA_DATA = {
       "eng": 48,
       "platform": "X",
       "kind": "Post",
-      "creator": "whin \ud83d\udc7e",
-      "title": "super pumped to announce that I'll be LIVE ON THE OFFICIAL SEGA TWITCH CHANNEL LATER TODAY (08/13) AT 1PM! \ud83d\ude31 I",
+      "creator": "whin 👾",
+      "title": "super pumped to announce that I'll be LIVE ON THE OFFICIAL SEGA TWITCH CHANNEL LATER TODAY (08/13) AT 1PM! 😱 I",
       "url": "https://www.twitter.com/page/status/2087795372965937207",
       "date": "2026-08-13"
      }
@@ -543,6 +545,10 @@ window.__QA_DATA = {
     "tracked": 18,
     "returning": 14,
     "new": 4
+   },
+   "shared": {
+    "posts": 5,
+    "views": 15659
    }
   },
   {
@@ -552,7 +558,7 @@ window.__QA_DATA = {
    "type": "Sale",
    "start": "2026-08-18",
    "end": "2026-08-27",
-   "window": "Aug 18 \u2013 27",
+   "window": "Aug 18 – 27",
    "vi": 73112,
    "eng": 3466,
    "pubs": 24,
@@ -599,9 +605,11 @@ window.__QA_DATA = {
     }
    ],
    "summary": "SEGA activated Creator Zone members to promote the SEGA/ATLUS Publisher Sale (Persona 3 Reload, Persona 5 Royal, Metaphor: ReFantazio, Shin Megami Tensei V: Vengeance); 11 creators on five platforms made 24 publications delivering 73,112 views and 3,466 engagements.",
-   "caveats": [],
+   "caveats": [
+    "5 posts (15,659 views) also count toward SEGA Summer Publisher Sale: Sonic, Catalogue Summer Sale: RGG / Yakuza."
+   ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/Tsfp5hdn1JMCZd73sccdAw",
+   "url": "",
    "qid": "q-atlus-publisher-sale-quest",
    "sheet": "ATLUS Publisher Sale Quest",
    "formats": {
@@ -716,7 +724,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Patrick Gardner",
-      "title": "SEGA's Publisher Sale is live on Steam through August 27th \u2014 Persona 3 Reload is a massive 65% off, alongside ",
+      "title": "SEGA's Publisher Sale is live on Steam through August 27th — Persona 3 Reload is a massive 65% off, alongside ",
       "url": "https://www.instagram.com/p/DcUNvEWT0Ji/",
       "date": "2026-08-21"
      }
@@ -726,6 +734,10 @@ window.__QA_DATA = {
     "tracked": 17,
     "returning": 14,
     "new": 3
+   },
+   "shared": {
+    "posts": 5,
+    "views": 15659
    }
   },
   {
@@ -735,7 +747,7 @@ window.__QA_DATA = {
    "type": "Sale",
    "start": "2026-08-20",
    "end": "2026-08-27",
-   "window": "Aug 20 \u2013 27",
+   "window": "Aug 20 – 27",
    "vi": 625112,
    "eng": 63974,
    "pubs": 10,
@@ -771,10 +783,11 @@ window.__QA_DATA = {
    ],
    "summary": "SEGA activated Creator Zone members to promote the Catalogue Summer Sale on Yakuza Like a Dragon and Yakuza 0 Director's Cut; 5 creators and 10 publications delivered 625,112 views and 63,974 engagements, almost entirely from one viral Instagram Reel by Eri la Nutria.",
    "caveats": [
-    "One Instagram Reel (582K views) drove 93% of views."
+    "One Instagram Reel (582K views) drove 93% of views.",
+    "1 post (79 views) also counts toward SEGA Summer Publisher Sale: Sonic, ATLUS Publisher Sale."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/Tsfp5hdn1JMCZd73sccdAw",
+   "url": "",
    "qid": "q-rgg-sega-publisher-sale",
    "sheet": "RGG SEGA Publisher Sale",
    "formats": {
@@ -832,8 +845,8 @@ window.__QA_DATA = {
       "eng": 57306,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Eri la Nutria \ud83e\udda6 E&E \ud83d\udc95",
-      "title": "Yakuza 0 Like a Dragon: El \u00fanico juego que trajo la PAZ MUNDIAL en 2020 \ud83d\udd4a\ufe0f\ud83c\udfae #yakuza \u00a1La oferta de SEGA que NO ",
+      "creator": "Eri la Nutria 🦦 E&E 💕",
+      "title": "Yakuza 0 Like a Dragon: El único juego que trajo la PAZ MUNDIAL en 2020 🕊️🎮 #yakuza ¡La oferta de SEGA que NO ",
       "url": "https://www.instagram.com/p/DcfD_SaFUnB/",
       "date": "2026-08-26"
      },
@@ -843,7 +856,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "Erivlt (Eri la Nutria) EyE",
-      "title": "Yakuza 0 Like a Dragon: El \u00fanico juego que trajo la PAZ MUNDIAL en 2020 \ud83d\udd4a\ufe0f\ud83c\udfae #yakuza \u00a1La oferta de SEGA que NO ",
+      "title": "Yakuza 0 Like a Dragon: El único juego que trajo la PAZ MUNDIAL en 2020 🕊️🎮 #yakuza ¡La oferta de SEGA que NO ",
       "url": "https://www.tiktok.com/@user/video/7678150524268530965",
       "date": "2026-08-26"
      },
@@ -853,7 +866,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "EriVlt (Eri La Nutria)",
-      "title": "Yakuza 0 Like a Dragon: El \u00fanico juego que trajo la PAZ MUNDIAL en 2020 \ud83d\udd4a\ufe0f\ud83c\udfae #Yakuza #yakuza #Yakuza #SEGA",
+      "title": "Yakuza 0 Like a Dragon: El único juego que trajo la PAZ MUNDIAL en 2020 🕊️🎮 #Yakuza #yakuza #Yakuza #SEGA",
       "url": "https://www.youtube.com/watch?v=ryxb3qR2TkQ",
       "date": "2026-08-26"
      },
@@ -863,7 +876,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Patrick Gardner",
-      "title": "SEGA's Publisher Sale is live on Steam through August 27th \u2014 Yakuza 0 Director's Cut is 45% off, with big disc",
+      "title": "SEGA's Publisher Sale is live on Steam through August 27th — Yakuza 0 Director's Cut is 45% off, with big disc",
       "url": "https://www.instagram.com/p/DcR260pTSmB/",
       "date": "2026-08-20"
      },
@@ -873,7 +886,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "Lilly",
-      "title": "YAKUZA IS GOATED \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f https://www.sega.com/like-a-dragon-yakuza/yakuza-0-directors-cut #SEGACreator #RGG #yaku",
+      "title": "YAKUZA IS GOATED 🗣️🗣️ https://www.sega.com/like-a-dragon-yakuza/yakuza-0-directors-cut #SEGACreator #RGG #yaku",
       "url": "https://www.tiktok.com/@user/video/7675955589155015967",
       "date": "2026-08-20"
      },
@@ -893,6 +906,10 @@ window.__QA_DATA = {
     "tracked": 8,
     "returning": 8,
     "new": 0
+   },
+   "shared": {
+    "posts": 1,
+    "views": 79
    }
   },
   {
@@ -902,7 +919,7 @@ window.__QA_DATA = {
    "type": "Collab",
    "start": "2026-08-26",
    "end": "2026-09-04",
-   "window": "Aug 26 \u2013 Sep 4",
+   "window": "Aug 26 – Sep 4",
    "vi": 24817,
    "eng": 612,
    "pubs": 20,
@@ -944,10 +961,10 @@ window.__QA_DATA = {
    ],
    "summary": "SEGA activated Creator Zone members to celebrate Axel (Crazy Taxi) joining Sonic Racing: CrossWorlds as a free playable character alongside the Crazy Taxi Festival event; 15 creators made 20 publications delivering 24,817 views and 612 engagements.",
    "caveats": [
-    "Some posts were cross-posted to both Crazy Taxi quests."
+    "3 posts (2,835 views) also count toward Axel's Double Shift: Crazy Taxi, Persona 4 Revival Story Trailer Reactions."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/Mpbz6RMn3zqB2no3399Rb9",
+   "url": "",
    "qid": "q-crazy-taxi-arrives-in-sonic-racing-crossworlds",
    "sheet": "Crazy Taxi Arrives in Sonic Racing: CrossWorlds 8/25",
    "formats": {
@@ -1016,7 +1033,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Post",
       "creator": "Emidivergent",
-      "title": "AXEL FESTIVAL IS LIVE IN CROSSWORLDS \ud83d\udde3 #sonicthehedgehog #sonicracingcrossworlds #crazytaxi #segacreator @soni",
+      "title": "AXEL FESTIVAL IS LIVE IN CROSSWORLDS 🗣 #sonicthehedgehog #sonicracingcrossworlds #crazytaxi #segacreator @soni",
       "url": "https://www.instagram.com/p/DcmBLSxztl5/",
       "date": "2026-08-28"
      },
@@ -1036,7 +1053,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Patrick Gardner",
-      "title": "Crazy Taxi is coming to Sonic Racing: CrossWorlds! \ud83d\ude95\ud83d\udca8 HEY! HEY! Axel joins the roster as a FREE playable chara",
+      "title": "Crazy Taxi is coming to Sonic Racing: CrossWorlds! 🚕💨 HEY! HEY! Axel joins the roster as a FREE playable chara",
       "url": "https://www.instagram.com/p/DcgoJ9QRGS_/",
       "date": "2026-08-26"
      },
@@ -1046,7 +1063,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Kori Maru Gaming",
-      "title": "Crazy Taxi's Axel Arrives in Sonic Racing CrossWorlds! \ud83d\ude95#sonicracingcrossworlds #segacreator #sonicracingcross",
+      "title": "Crazy Taxi's Axel Arrives in Sonic Racing CrossWorlds! 🚕#sonicracingcrossworlds #segacreator #sonicracingcross",
       "url": "https://www.youtube.com/watch?v=RGopLrza5_w",
       "date": "2026-08-26"
      },
@@ -1056,7 +1073,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "Kori-Maru",
-      "title": "Crazy Taxi is coming to Sonic Racing: CrossWorlds! \ud83d\ude95 Axel joins the roster as a FREE playable character in his",
+      "title": "Crazy Taxi is coming to Sonic Racing: CrossWorlds! 🚕 Axel joins the roster as a FREE playable character in his",
       "url": "https://www.tiktok.com/@user/video/7678228521914797325",
       "date": "2026-08-26"
      }
@@ -1066,6 +1083,10 @@ window.__QA_DATA = {
     "tracked": 17,
     "returning": 15,
     "new": 2
+   },
+   "shared": {
+    "posts": 3,
+    "views": 2835
    }
   },
   {
@@ -1075,7 +1096,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-08-26",
    "end": "2026-09-04",
-   "window": "Aug 26 \u2013 Sep 4",
+   "window": "Aug 26 – Sep 4",
    "vi": 36444,
    "eng": 1592,
    "pubs": 24,
@@ -1123,11 +1144,11 @@ window.__QA_DATA = {
    ],
    "summary": "SEGA activated Creator Zone members to spotlight Crazy Taxi: World Tour's Germany map reveal at SEGA's LA Summer Showcase, tying back to the Axel crossover; 13 creators made 24 publications delivering 36,444 views and 1,592 engagements.",
    "caveats": [
-    "Some posts were cross-posted to both Crazy Taxi quests.",
-    "The dashboard quest's raw LevelUp export (Aug 26 \u2013 Sep 1) shows 185.1K views and 5,381 engagements from 42 posts, well above the deck's 36.4K. The deck appears to count Germany map reveal content only; confirm which scope to report."
+    "The dashboard quest's raw LevelUp export (Aug 26 – Sep 1) shows 185.1K views and 5,381 engagements from 42 posts, well above the deck's 36.4K. The deck appears to count Germany map reveal content only; confirm which scope to report.",
+    "4 posts (3,152 views) also count toward Crazy Taxi Arrives in Sonic Racing: CrossWorlds, Persona 4 Revival Story Trailer Reactions, Stranger Than Heaven: Combat Across Three Eras."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/Mpbz6RMn3zqB2no3399Rb9",
+   "url": "",
    "qid": "q-axel-s-double-shift-crazy-taxi",
    "sheet": "Axel's Double Shift: Crazy Taxi",
    "formats": {
@@ -1219,7 +1240,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Andy AKA LoveRetroBTW",
-      "title": "Crazy Taxi: World Tour at SEGA\u2019s LA Summer Showcase. @S@SEGA#CrazyTaxiWorldTour #SEGACreator",
+      "title": "Crazy Taxi: World Tour at SEGA’s LA Summer Showcase. @S@SEGA#CrazyTaxiWorldTour #SEGACreator",
       "url": "https://www.youtube.com/watch?v=U9lgTr1y5SY",
       "date": "2026-08-26"
      },
@@ -1228,8 +1249,8 @@ window.__QA_DATA = {
       "eng": 132,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "ItsTiffanie | Nintendo Enjoyer\ud83d\udccdLA/OC",
-      "title": "I got to play some new SEGA games EARLY \ud83e\udd73 here are my top 3 favorites!! Which ones will you play? \ud83e\udd14 Thank you ",
+      "creator": "ItsTiffanie | Nintendo Enjoyer📍LA/OC",
+      "title": "I got to play some new SEGA games EARLY 🥳 here are my top 3 favorites!! Which ones will you play? 🤔 Thank you ",
       "url": "https://www.instagram.com/p/Dc0Sxndu6Pt/",
       "date": "2026-09-03"
      },
@@ -1249,7 +1270,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Post",
       "creator": "Emidivergent",
-      "title": "CATCH ME IN GERMANY \ud83d\udde3 ALSO last day to sign up for the Closed Network Testing!! #crazytaxi #segacreator @crazy",
+      "title": "CATCH ME IN GERMANY 🗣 ALSO last day to sign up for the Closed Network Testing!! #crazytaxi #segacreator @crazy",
       "url": "https://www.instagram.com/p/Dct3na_tKS3/",
       "date": "2026-08-31"
      }
@@ -1259,6 +1280,10 @@ window.__QA_DATA = {
     "tracked": 18,
     "returning": 17,
     "new": 1
+   },
+   "shared": {
+    "posts": 4,
+    "views": 3152
    }
   },
   {
@@ -1268,7 +1293,7 @@ window.__QA_DATA = {
    "type": "Streaming",
    "start": "2026-09-11",
    "end": "2026-09-13",
-   "window": "Sep 11 \u2013 13",
+   "window": "Sep 11 – 13",
    "vi": 68505,
    "eng": 3473,
    "pubs": 69,
@@ -1312,7 +1337,7 @@ window.__QA_DATA = {
     "Platform rows are video/VOD views only; engagements per platform not reported."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/3yZVEs2WfaYonyQyjYe8nk",
+   "url": "",
    "stream": [
     [
      "7,119",
@@ -1412,7 +1437,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Alicia Rancier",
-      "title": "I SWEAR I\u2019M THE BEST TAXIER IN THE WORLD \ud83e\udd23\ud83d\ude06\ud83d\ude02 . Thank you to @sega for gifting me a code and I\u2019ve been having a",
+      "title": "I SWEAR I’M THE BEST TAXIER IN THE WORLD 🤣😆😂 . Thank you to @sega for gifting me a code and I’ve been having a",
       "url": "https://www.instagram.com/p/DdPXhHDPTXK/",
       "date": "2026-09-13"
      },
@@ -1432,7 +1457,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Gunchuck Gaming",
-      "title": "Loving what I played so far of Crazy Taxi World Tour \ud83d\ude95 @sega #crazytaxiworldtour #segacreator #gifted #crazyta",
+      "title": "Loving what I played so far of Crazy Taxi World Tour 🚕 @sega #crazytaxiworldtour #segacreator #gifted #crazyta",
       "url": "https://www.instagram.com/p/DdQZEq-Ppyn/",
       "date": "2026-09-14"
      },
@@ -1442,7 +1467,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Schizo Forg",
-      "title": "SEGA vino a mi Stream y me papeo \ud83d\ude35 jugando Crazy Taxi World Tour #segacreator #crazytaxiworldtour #Videojuegos",
+      "title": "SEGA vino a mi Stream y me papeo 😵 jugando Crazy Taxi World Tour #segacreator #crazytaxiworldtour #Videojuegos",
       "url": "https://www.instagram.com/p/DdNGz4zO4Z5/",
       "date": "2026-09-12"
      },
@@ -1452,7 +1477,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "Erivlt (Eri la Nutria) EyE",
-      "title": "El regreso de CRAZY TAXI me devolvi\u00f3 a la infancia \ud83d\ude95\ud83d\udca5a LATINOAM\u00c9RICA Probamos la Beta de Crazy Taxi: World Tou",
+      "title": "El regreso de CRAZY TAXI me devolvió a la infancia 🚕💥a LATINOAMÉRICA Probamos la Beta de Crazy Taxi: World Tou",
       "url": "https://www.tiktok.com/@user/video/7685078920156220680",
       "date": "2026-09-13"
      }
@@ -1470,7 +1495,7 @@ window.__QA_DATA = {
     ],
     [
      "6,113",
-     "chat messages on SEGA\u2019s channel"
+     "chat messages on SEGA’s channel"
     ],
     [
      "12 of 13",
@@ -1493,7 +1518,7 @@ window.__QA_DATA = {
    "type": "Collab",
    "start": "2026-09-24",
    "end": "2026-10-02",
-   "window": "Sep 24 \u2013 Oct 2",
+   "window": "Sep 24 – Oct 2",
    "vi": 182600,
    "eng": 10000,
    "pubs": 53,
@@ -1545,7 +1570,7 @@ window.__QA_DATA = {
      "eng": 1700
     },
     {
-     "creator": "Lynn\ud83e\udebc",
+     "creator": "Lynn🪼",
      "platform": "TikTok + Instagram",
      "format": "Short-form video",
      "views": 30600,
@@ -1564,7 +1589,7 @@ window.__QA_DATA = {
     "Twitch counts VOD views only."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/HvU3ZtXU8kUZiorcYJ2mPH",
+   "url": "",
    "mix": "The recap deck lists 19 short-form videos, 3 long-form YouTube videos, 18 livestreams and 13 social posts; it reports short-form video (TikTok, Instagram, Shorts) at 26.4% of views and 44.6% of engagements (9.2% eng. rate).",
    "qid": "q-persona-x-fortnite-collab",
    "sheet": "Persona x Fortnite Collab",
@@ -1577,7 +1602,7 @@ window.__QA_DATA = {
    "type": "Launch",
    "start": "2026-10-14",
    "end": "2026-10-21",
-   "window": "Oct 14 \u2013 21",
+   "window": "Oct 14 – 21",
    "vi": 55500,
    "eng": 3700,
    "pubs": 28,
@@ -1642,10 +1667,10 @@ window.__QA_DATA = {
     "Data pulled Oct 21, the last day of the window; totals may still grow."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/Vv2LUvGDpvLAzZVZuQra5H",
+   "url": "",
    "mix": "The recap deck lists 19 short-form videos, 4 livestreams and 5 social posts, with short-form video at 94% of views and 86% of engagements (6.0% eng. rate).",
    "qid": "q-metaphor-refantazio-nintendo-switch-2-demo",
-   "sheet": "Metaphor: ReFantazio \u2013 Nintendo Switch 2 Demo",
+   "sheet": "Metaphor: ReFantazio – Nintendo Switch 2 Demo",
    "formats": null
   },
   {
@@ -1655,7 +1680,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-08-29",
    "end": "2026-09-10",
-   "window": "Aug 29 \u2013 Sep 10",
+   "window": "Aug 29 – Sep 10",
    "vi": 16890,
    "eng": 949,
    "pubs": 8,
@@ -1696,9 +1721,11 @@ window.__QA_DATA = {
     }
    ],
    "summary": "SEGA/ATLUS activated Creator Zone members to announce Metaphor: ReFantazio's arrival on Nintendo Switch 2 (launching November 12, 2026); 7 unique creators generated 8 publications, delivering 16,890 views and 949 engagements across YouTube, Instagram, TikTok, and Twitch.",
-   "caveats": [],
+   "caveats": [
+    "1 post (2,015 views) also counts toward Stranger Than Heaven: Combat Across Three Eras."
+   ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/QKAJLYg8SNdsCzsPH24Cp5",
+   "url": "",
    "qid": "q-metaphor-refantazio-comes-to-nintendo-switch-2",
    "sheet": "Metaphor: ReFantazio Comes to Nintendo Switch 2 9/1",
    "formats": {
@@ -1761,7 +1788,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Schizo Forg",
-      "title": "El GOTY que llega a Switch 2 \ud83c\udfae #metaphorrefantazio #segacreator #nintendo",
+      "title": "El GOTY que llega a Switch 2 🎮 #metaphorrefantazio #segacreator #nintendo",
       "url": "https://www.youtube.com/watch?v=XM_3BrXF0zg",
       "date": "2026-09-10"
      },
@@ -1801,7 +1828,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "GtoTheNextLevel",
-      "title": "Have you played Metaphor: ReFantazio? Like Persona, I\u2019m new to the game, but now that the Switch 2 version is ",
+      "title": "Have you played Metaphor: ReFantazio? Like Persona, I’m new to the game, but now that the Switch 2 version is ",
       "url": "https://www.tiktok.com/@user/video/7683740916137397534",
       "date": "2026-09-10"
      }
@@ -1811,6 +1838,10 @@ window.__QA_DATA = {
     "tracked": 8,
     "returning": 7,
     "new": 1
+   },
+   "shared": {
+    "posts": 1,
+    "views": 2015
    }
   },
   {
@@ -1820,7 +1851,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-08-25",
    "end": "2026-09-04",
-   "window": "Aug 25 \u2013 Sep 4",
+   "window": "Aug 25 – Sep 4",
    "vi": 145192,
    "eng": 7043,
    "pubs": 39,
@@ -1866,10 +1897,13 @@ window.__QA_DATA = {
      "eng": 1686
     }
    ],
-   "summary": "SEGA/ATLUS activated Creator Zone members to react to the Persona 4 Revival Story Trailer at Gamescom; 27 unique creators generated 39 publications, delivering 145,192 views and 7,043 engagements \u2014 described as the largest single-quest total in the dataset to date.",
-   "caveats": [],
+   "summary": "SEGA/ATLUS activated Creator Zone members to react to the Persona 4 Revival Story Trailer at Gamescom; 27 unique creators generated 39 publications, delivering 145,192 views and 7,043 engagements — described as the largest single-quest total in the dataset to date.",
+   "caveats": [
+    "The platform split adds up to 41 posts; the deck headline reports 39.",
+    "3 posts (2,916 views) also count toward Axel's Double Shift: Crazy Taxi, Crazy Taxi Arrives in Sonic Racing: CrossWorlds, Persona Lore Refresher and 1 more."
+   ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/WxRcuuddUzBX2Z5TG3ebjf",
+   "url": "",
    "qid": "q-persona-4-revival-story-trailer-reactions",
    "sheet": "Persona 4 Revival Story Trailer Reactions 8/26",
    "formats": {
@@ -1950,7 +1984,7 @@ window.__QA_DATA = {
       "eng": 1232,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Lynn\ud83e\udebc",
+      "creator": "Lynn🪼",
       "title": "#SEGAcreator #P4R @atlus_west",
       "url": "https://www.instagram.com/p/Dcqnz6_BJrm/",
       "date": "2026-08-30"
@@ -1960,7 +1994,7 @@ window.__QA_DATA = {
       "eng": 1436,
       "platform": "TikTok",
       "kind": "TikTok",
-      "creator": "Lynn\ud83e\udebc",
+      "creator": "Lynn🪼",
       "title": "#fyp #SEGAcreator #P4R @ATLUS West",
       "url": "https://www.tiktok.com/@user/video/7679797530602917134",
       "date": "2026-08-30"
@@ -2001,6 +2035,10 @@ window.__QA_DATA = {
     "tracked": 33,
     "returning": 22,
     "new": 11
+   },
+   "shared": {
+    "posts": 3,
+    "views": 2916
    }
   },
   {
@@ -2010,7 +2048,7 @@ window.__QA_DATA = {
    "type": "Explainer",
    "start": "2026-08-27",
    "end": "2026-09-03",
-   "window": "Aug 27 \u2013 Sep 3",
+   "window": "Aug 27 – Sep 3",
    "vi": 12681,
    "eng": 601,
    "pubs": 8,
@@ -2037,7 +2075,7 @@ window.__QA_DATA = {
    ],
    "top": [
     {
-     "creator": "Reef \ud83d\udc51",
+     "creator": "Reef 👑",
      "platform": "Instagram",
      "format": "",
      "views": 5841,
@@ -2045,9 +2083,11 @@ window.__QA_DATA = {
     }
    ],
    "summary": "SEGA/ATLUS activated Creator Zone members to publish short lore-refresher content ahead of Persona 4 Revival; 5 unique creators generated 8 publications, delivering 12,681 views and 601 engagements across YouTube, Instagram, and TikTok.",
-   "caveats": [],
+   "caveats": [
+    "1 post (367 views) also counts toward Persona 4 Revival Story Trailer Reactions."
+   ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/WxRcuuddUzBX2Z5TG3ebjf",
+   "url": "",
    "qid": "q-persona-lore-refresher-quest",
    "sheet": "Persona Lore Refresher Quest 8/28",
    "formats": {
@@ -2105,8 +2145,8 @@ window.__QA_DATA = {
       "eng": 268,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Reef \ud83d\udc51",
-      "title": "Who\u2019s your favorite character in the persona series? \ud83d\udc40 (YT: ReefPlaysGames) #Persona4Revival #SEGACreator @atl",
+      "creator": "Reef 👑",
+      "title": "Who’s your favorite character in the persona series? 👀 (YT: ReefPlaysGames) #Persona4Revival #SEGACreator @atl",
       "url": "https://www.instagram.com/p/Dcj3v1vqphw/",
       "date": "2026-08-27"
      },
@@ -2115,8 +2155,8 @@ window.__QA_DATA = {
       "eng": 175,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "LilChaos \ud83c\udf38",
-      "title": "what\u2019s persona 4 revival really about? \ud83d\udc40\u26a1\ufe0fi can tell you right now besties \u26a1\ufe0e \u22c6.\u02da @atlus_west @sega #persona4r",
+      "creator": "LilChaos 🌸",
+      "title": "what’s persona 4 revival really about? 👀⚡️i can tell you right now besties ⚡︎ ⋆.˚ @atlus_west @sega #persona4r",
       "url": "https://www.instagram.com/p/Dc1-DsAC7l7/",
       "date": "2026-09-03"
      },
@@ -2126,7 +2166,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "LilChaos",
-      "title": "What\u2019s Persona 4 Revival Really About? \ud83d\udc40\u26a1\ufe0f #segacreator #atlus #p4r",
+      "title": "What’s Persona 4 Revival Really About? 👀⚡️ #segacreator #atlus #p4r",
       "url": "https://www.youtube.com/watch?v=TJjZc6ZudFw",
       "date": "2026-09-03"
      },
@@ -2145,8 +2185,8 @@ window.__QA_DATA = {
       "eng": 60,
       "platform": "TikTok",
       "kind": "TikTok",
-      "creator": "Chaos-Chan \u2728",
-      "title": "what\u2019s persona 4 revival really about? \ud83d\udc40\u26a1\ufe0fi can tell you right now besties \u26a1\ufe0e \u22c6.\u02da @ATLUS West @SEGA Official #",
+      "creator": "Chaos-Chan ✨",
+      "title": "what’s persona 4 revival really about? 👀⚡️i can tell you right now besties ⚡︎ ⋆.˚ @ATLUS West @SEGA Official #",
       "url": "https://www.tiktok.com/@user/video/7681454308675636510",
       "date": "2026-09-03"
      },
@@ -2166,6 +2206,10 @@ window.__QA_DATA = {
     "tracked": 6,
     "returning": 5,
     "new": 1
+   },
+   "shared": {
+    "posts": 1,
+    "views": 367
    }
   },
   {
@@ -2175,7 +2219,7 @@ window.__QA_DATA = {
    "type": "Collab",
    "start": "2026-08-02",
    "end": "2026-09-01",
-   "window": "Aug 2 \u2013 Sep 1",
+   "window": "Aug 2 – Sep 1",
    "vi": 251400,
    "eng": 35813,
    "pubs": 44,
@@ -2225,10 +2269,10 @@ window.__QA_DATA = {
    "caveats": [
     "Includes a paid (FTC-disclosed) activation: 29 posts, 36.7K views, 1.6K engagements.",
     "Organic: 15 posts, 214.7K views, 34.2K engagements.",
-    "A separate July in-person event export (9 posts, Aug 2\u201310) adds 1,478 views and 1,478 engagements, not included in the deck."
+    "A separate July in-person event export (9 posts, Aug 2–10) adds 1,478 views and 1,478 engagements, not included in the deck."
    ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/MC1V4RM27e44joQY3U6NDE",
+   "url": "",
    "split": [
     {
      "label": "Organic",
@@ -2326,7 +2370,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Jordan",
-      "title": "they paid for my meal, so I ate as much as I could\u2026 #foodchallenge #persona #beefbowl @kurasushi_usa",
+      "title": "they paid for my meal, so I ate as much as I could… #foodchallenge #persona #beefbowl @kurasushi_usa",
       "url": "https://www.instagram.com/p/DcMDdJ0Rw4t/",
       "date": "2026-08-18"
      },
@@ -2346,7 +2390,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "Jordan",
-      "title": "they paid for my meal, so I ate as much as I could\u2026 #foodchallenge #persona @Kura Sushi",
+      "title": "they paid for my meal, so I ate as much as I could… #foodchallenge #persona @Kura Sushi",
       "url": "https://www.tiktok.com/@user/video/7675409499854753055",
       "date": "2026-08-18"
      },
@@ -2385,7 +2429,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-08-27",
    "end": "2026-09-05",
-   "window": "Aug 27 \u2013 Sep 5",
+   "window": "Aug 27 – Sep 5",
    "vi": 13090,
    "eng": 377,
    "pubs": 20,
@@ -2424,7 +2468,7 @@ window.__QA_DATA = {
    ],
    "top": [
     {
-     "creator": "Reef \ud83d\udc51",
+     "creator": "Reef 👑",
      "platform": "Instagram",
      "format": "",
      "views": 3634,
@@ -2432,9 +2476,11 @@ window.__QA_DATA = {
     }
    ],
    "summary": "SEGA activated Creator Zone members to amplify the Stranger Than Heaven Gamescom combat reveal across three playable eras (1915 Kokura, 1929 Kure, 1943 Minami); 15 unique creators generated 20 publications, delivering 13,090 views and 377 engagements across YouTube, Instagram, Twitch, TikTok, and Twitter/X.",
-   "caveats": [],
+   "caveats": [
+    "3 posts (2,596 views) also count toward Metaphor: ReFantazio Comes to Switch 2, Axel's Double Shift: Crazy Taxi, Persona 4 Revival Story Trailer Reactions and 1 more."
+   ],
    "basis": "vi",
-   "url": "https://claude.ai/artifact/PVut7hfxxQoB8D17QVjnDS",
+   "url": "",
    "qid": "q-combat-across-three-eras",
    "sheet": "Combat Across Three Eras 8/28",
    "formats": {
@@ -2505,8 +2551,8 @@ window.__QA_DATA = {
       "eng": 123,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Reef \ud83d\udc51",
-      "title": "Stranger than heaven\u2019s combat is gonna be next level \ud83d\ude2d (YT: ReefPlaysGames) #ad #STRANGERTHANHEAVENpartner #St",
+      "creator": "Reef 👑",
+      "title": "Stranger than heaven’s combat is gonna be next level 😭 (YT: ReefPlaysGames) #ad #STRANGERTHANHEAVENpartner #St",
       "url": "https://www.instagram.com/p/DctCX0BR8iu/",
       "date": "2026-08-31"
      },
@@ -2526,7 +2572,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Patrick Gardner",
-      "title": "STRANGER THAN HEAVEN's Gamescom demo covers combat across 1915 Kokura, 1929 Kure, and 1943 Minami \u2014 and every ",
+      "title": "STRANGER THAN HEAVEN's Gamescom demo covers combat across 1915 Kokura, 1929 Kure, and 1943 Minami — and every ",
       "url": "https://www.instagram.com/p/DctfglwxRqy/",
       "date": "2026-08-31"
      },
@@ -2566,16 +2612,21 @@ window.__QA_DATA = {
     "tracked": 20,
     "returning": 17,
     "new": 3
+   },
+   "shared": {
+    "posts": 3,
+    "views": 2596
    }
   },
   {
    "platforms": [],
    "top": [],
    "caveats": [
-    "Headline totals (1.01M views & impressions, 290 posts, Jun 22 \u2013 Aug 31) come from the Sonic 35th anniversary table in the Club Chaos recap.",
-    "The weekly decks add up to 926.9K views & impressions, 55.1K engagements and 194 posts through Aug 17; the rollup also covers Aug 18 \u2013 31.",
+    "Headline totals (1.01M views & impressions, 290 posts, Jun 22 – Aug 31) come from the Sonic 35th anniversary table in the Club Chaos recap.",
+    "The weekly decks add up to 926.9K views & impressions, 55.1K engagements and 194 posts through Aug 17; the rollup also covers Aug 18 – 31.",
     "Chaos Hunt figures count impressions as well as views because most hunt content is X posts. The rest of the hub counts views only.",
-    "X carried announcements and Instagram drove engagement. Survey: 70% of 15 creators rated the hunt 4 or 5."
+    "X carried announcements and Instagram drove engagement. Survey: 70% of 15 creators rated the hunt 4 or 5.",
+    "6 posts (10,970 views) also count toward TMNT Arrives in Sonic Racing: CrossWorlds, Welcome to the West Coast: Crazy Taxi World Tour."
    ],
    "basis": "vi",
    "type": "Event",
@@ -2584,12 +2635,12 @@ window.__QA_DATA = {
    "ip": "sonic",
    "start": "2026-06-22",
    "end": "2026-08-31",
-   "window": "Jun 22 \u2013 Aug 31",
+   "window": "Jun 22 – Aug 31",
    "vi": 1010000,
    "eng": 69000,
    "pubs": 290,
    "creators": 53,
-   "url": "https://claude.ai/artifact/DhgZ9XUUi55dr93XqAEFhV",
+   "url": "",
    "summary": "The summer-long Chaos Emerald Hunt leaderboard ran Creator Zone weekly quests and city pop-ups for Sonic's 35th anniversary, producing 290 creator posts for 1.01M views and impressions and 69.0K engagements from 53 creators.",
    "weeks": [
     {
@@ -2763,7 +2814,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Post",
       "creator": "JC",
-      "title": "WE FOUND THE MASTER EMERALD \ud83d\ude31 and met the legend himself!!! \ud83d\udc99 #SEGACreator #ChaosHunt https://t.co/SQPJB8eowy",
+      "title": "WE FOUND THE MASTER EMERALD 😱 and met the legend himself!!! 💙 #SEGACreator #ChaosHunt https://t.co/SQPJB8eowy",
       "url": "https://www.twitter.com/page/status/2070932219670270108",
       "date": "2026-06-27"
      },
@@ -2772,7 +2823,7 @@ window.__QA_DATA = {
       "eng": 9972,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "KB \ud80c\udd8f\u2605",
+      "creator": "KB 𓆏★",
       "title": "CAN YOU FEEL THE SUNSHINE??? #sonicracing #sonicthehedgehog #tjdavis #blerd #explorepage",
       "url": "https://www.instagram.com/p/DcEQh1xOlJ7/",
       "date": "2026-08-15"
@@ -2792,8 +2843,8 @@ window.__QA_DATA = {
       "eng": 949,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "ItsTiffanie | Nintendo Enjoyer\ud83d\udccdLA/OC",
-      "title": "Yellow Chaos Emerald and Tails at San Diego today!! \ud83d\udc8e\ud83e\udd8a (Pop up ends at 4pm!) Also met designer Takashi Iizuka ",
+      "creator": "ItsTiffanie | Nintendo Enjoyer📍LA/OC",
+      "title": "Yellow Chaos Emerald and Tails at San Diego today!! 💎🦊 (Pop up ends at 4pm!) Also met designer Takashi Iizuka ",
       "url": "https://www.instagram.com/p/DbOllaBvFlQ/",
       "date": "2026-07-25"
      },
@@ -2803,7 +2854,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Video post",
       "creator": "JC",
-      "title": "MY GOAT \ud83d\udc99\ud83d\ude2d #SEGACreator I love him so much. https://t.co/HQhlfwGVQK",
+      "title": "MY GOAT 💙😭 #SEGACreator I love him so much. https://t.co/HQhlfwGVQK",
       "url": "https://www.twitter.com/page/status/2071022325714305146",
       "date": "2026-06-28"
      },
@@ -2813,7 +2864,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Video post",
       "creator": "Sonickick",
-      "title": "I... can't even man. I finally get to VIP after so many years, and the game does this... \ud83d\ude2d https://t.co/eFMSjX",
+      "title": "I... can't even man. I finally get to VIP after so many years, and the game does this... 😭 https://t.co/eFMSjX",
       "url": "https://www.twitter.com/page/status/2081593815526195587",
       "date": "2026-07-27"
      }
@@ -2823,6 +2874,10 @@ window.__QA_DATA = {
     "tracked": 53,
     "returning": 18,
     "new": 35
+   },
+   "shared": {
+    "posts": 6,
+    "views": 10970
    }
   },
   {
@@ -2885,7 +2940,7 @@ window.__QA_DATA = {
     "The Club Chaos recap's 35th anniversary table lists 4.67M because it adds 709.7K post impressions; this hub counts views only.",
     "Inferno Jae's YouTube Short (1.14M views) and Jackbotnik's Short (738.4K) drove 48% of views.",
     "9,184 Twitch hours watched across 55 creator streams.",
-    "Posts in the export run Aug 16 \u2013 Sep 1.",
+    "Posts in the export run Aug 16 – Sep 1.",
     "Raw LevelUp export, not yet reviewed for off-topic posts; no standalone deck yet."
    ],
    "basis": "vi",
@@ -2895,7 +2950,7 @@ window.__QA_DATA = {
    "ip": "sonic",
    "start": "2026-08-21",
    "end": "2026-08-28",
-   "window": "Aug 21 \u2013 28",
+   "window": "Aug 21 – 28",
    "vi": 3955551,
    "eng": 243180,
    "pubs": 133,
@@ -2980,7 +3035,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Inferno Jae",
-      "title": "bro always aura farming \ud83d\ude2d",
+      "title": "bro always aura farming 😭",
       "url": "https://www.youtube.com/watch?v=NRVT9liHiSI",
       "date": "2026-08-24"
      },
@@ -3019,8 +3074,8 @@ window.__QA_DATA = {
       "eng": 21104,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "\ud835\udd71\ud835\udd97\ud835\udd86\ud835\udd93\ud835\udd88\ud835\udd94",
-      "title": "OOOOOOO GET IT SHADOW GET IT SHADOW \u203c\ufe0f\ud83d\udde3\ufe0f Thank you to @sega and @fortnite for sending me some early access cod",
+      "creator": "𝕱𝖗𝖆𝖓𝖈𝖔",
+      "title": "OOOOOOO GET IT SHADOW GET IT SHADOW ‼️🗣️ Thank you to @sega and @fortnite for sending me some early access cod",
       "url": "https://www.instagram.com/p/DcRd3V4Bdb_/",
       "date": "2026-08-20"
      },
@@ -3090,7 +3145,7 @@ window.__QA_DATA = {
    "ip": "atlus",
    "start": "2026-09-19",
    "end": "2026-10-03",
-   "window": "Sep 19 \u2013 Oct 3",
+   "window": "Sep 19 – Oct 3",
    "vi": 73600,
    "eng": 4700,
    "pubs": 17,
@@ -3144,7 +3199,7 @@ window.__QA_DATA = {
     }
    ],
    "caveats": [
-    "LevelUp's tracking window runs Jun 18 \u2013 Oct 2, so it may include content from the 6/18 Switch 2 announcement.",
+    "LevelUp's tracking window runs Jun 18 – Oct 2, so it may include content from the 6/18 Switch 2 announcement.",
     "AliceWolves alone drove 55% of views and 80% of engagement.",
     "SEGA channel: peak 109 concurrent viewers, 60 new follows, 2,060 chat messages."
    ],
@@ -3155,7 +3210,7 @@ window.__QA_DATA = {
    "ip": "lic",
    "start": "2026-09-24",
    "end": "2026-10-02",
-   "window": "Sep 24 \u2013 Oct 2",
+   "window": "Sep 24 – Oct 2",
    "vi": 51954,
    "eng": 2388,
    "pubs": 35,
@@ -3272,12 +3327,12 @@ window.__QA_DATA = {
    "ip": "atlus",
    "start": "2026-09-24",
    "end": "2026-10-01",
-   "window": "Sep 24 \u2013 Oct 1",
+   "window": "Sep 24 – Oct 1",
    "vi": 154600,
    "eng": 14100,
    "pubs": 21,
    "creators": 13,
-   "url": "https://claude.ai/artifact/7R77Qc6eXap8jThQkCbgm2",
+   "url": "",
    "stream": [
     [
      "12,631",
@@ -3315,7 +3370,7 @@ window.__QA_DATA = {
     ],
     [
      "94.6K",
-     "views on Atlus West\u2019s schedule post on X"
+     "views on Atlus West’s schedule post on X"
     ]
    ]
   },
@@ -3326,7 +3381,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-07",
    "end": "2026-06-14",
-   "window": "Jun 7 \u2013 Jun 14",
+   "window": "Jun 7 – Jun 14",
    "vi": 278648,
    "eng": 12762,
    "pubs": 61,
@@ -3388,7 +3443,8 @@ window.__QA_DATA = {
    ],
    "summary": "48 creators published 61 pieces for 278.6K views & impressions and 12.8K engagements; YouTube led with 49% of views.",
    "caveats": [
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "7 posts (19,902 views) also count toward Stranger Than Heaven SGF Reactions + RGG Developer Sale, Alien: Isolation 2 Summer Games Fest Reactions, Persona 4 Revival 6.18 Broadcast Deep Dive and 2 more."
    ],
    "basis": "vi",
    "url": "",
@@ -3464,7 +3520,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Post",
       "creator": "KAMI",
-      "title": "Persona 4 Revival | New Details & Official Screenshots: \u25ab\ufe0f Investigate a serial murder case in the small town ",
+      "title": "Persona 4 Revival | New Details & Official Screenshots: ▫️ Investigate a serial murder case in the small town ",
       "url": "https://www.twitter.com/page/status/2063704766169891301",
       "date": "2026-06-07"
      },
@@ -3524,6 +3580,10 @@ window.__QA_DATA = {
     "tracked": 41,
     "returning": 16,
     "new": 25
+   },
+   "shared": {
+    "posts": 7,
+    "views": 19902
    }
   },
   {
@@ -3533,7 +3593,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-18",
    "end": "2026-06-30",
-   "window": "Jun 18 \u2013 Jun 30",
+   "window": "Jun 18 – Jun 30",
    "vi": 298362,
    "eng": 26629,
    "pubs": 31,
@@ -3596,7 +3656,8 @@ window.__QA_DATA = {
    "summary": "27 creators published 31 pieces for 298.4K views & impressions and 26.6K engagements; YouTube led with 38% of views.",
    "caveats": [
     "Includes 5 posts dated before the quest opened (from Jun 13).",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "7 posts (31,462 views) also count toward Persona 4 Revival 6.18 Broadcast Watch-Along, Persona 4 Revival Xbox Games Showcase Reactions."
    ],
    "basis": "vi",
    "url": "",
@@ -3672,7 +3733,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Unnamed account",
-      "title": "i was beyond happy when i saw nanako\u2026is that bad? @atlus_west #persona #segacreator #p4r",
+      "title": "i was beyond happy when i saw nanako…is that bad? @atlus_west #persona #segacreator #p4r",
       "url": "https://www.instagram.com/p/DZ2PopbB6XI/",
       "date": "2026-06-21"
      },
@@ -3701,7 +3762,7 @@ window.__QA_DATA = {
       "eng": 5628,
       "platform": "TikTok",
       "kind": "TikTok",
-      "creator": "Lynn\ud83e\udebc",
+      "creator": "Lynn🪼",
       "title": "actually was a good livestream, seeing hanako in the trailer make me BEYOND happy..#fyp #SEGAcreator #P4R #per",
       "url": "https://www.tiktok.com/@user/video/7653598360150052110",
       "date": "2026-06-21"
@@ -3732,6 +3793,10 @@ window.__QA_DATA = {
     "tracked": 25,
     "returning": 11,
     "new": 14
+   },
+   "shared": {
+    "posts": 7,
+    "views": 31462
    }
   },
   {
@@ -3797,9 +3862,10 @@ window.__QA_DATA = {
    ],
    "summary": "36 creators published 45 pieces for 175.2K views & impressions and 17.1K engagements; TikTok led with 48% of views.",
    "caveats": [
-    "Posts in the export run Jun 7 \u2013 21, wider than the one-day quest window.",
+    "Posts in the export run Jun 7 – 21, wider than the one-day quest window.",
     "21 Twitch VODs; Twitch engagements not tracked.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "8 posts (29,105 views) also count toward Persona 4 Revival 6.18 Broadcast Deep Dive, Persona 4 Revival Xbox Games Showcase Reactions, SHINOBI: Art of Vengeance Switch 2/PS5 Announcement."
    ],
    "basis": "vi",
    "url": "",
@@ -3918,8 +3984,8 @@ window.__QA_DATA = {
       "eng": 291,
       "platform": "X",
       "kind": "Video post",
-      "creator": "hai \ud83d\udc30 PAX WEST",
-      "title": "recreating persona 4 golden vs persona 4 revival scenes \ud83e\udee8 https://t.co/Qz1BKOcycF",
+      "creator": "hai 🐰 PAX WEST",
+      "title": "recreating persona 4 golden vs persona 4 revival scenes 🫨 https://t.co/Qz1BKOcycF",
       "url": "https://www.twitter.com/page/status/2068538579886760420",
       "date": "2026-06-21"
      }
@@ -3929,6 +3995,10 @@ window.__QA_DATA = {
     "tracked": 31,
     "returning": 17,
     "new": 14
+   },
+   "shared": {
+    "posts": 8,
+    "views": 29105
    }
   },
   {
@@ -3965,7 +4035,7 @@ window.__QA_DATA = {
    ],
    "top": [
     {
-     "creator": "ane\u0301 \ud83d\udcab",
+     "creator": "ané 💫",
      "platform": "Instagram",
      "format": "",
      "views": 4037,
@@ -3979,7 +4049,7 @@ window.__QA_DATA = {
      "eng": 63
     },
     {
-     "creator": "hai \ud83d\udc30 PAX WEST",
+     "creator": "hai 🐰 PAX WEST",
      "platform": "X",
      "format": "",
      "views": 2839,
@@ -4052,8 +4122,8 @@ window.__QA_DATA = {
       "eng": 223,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "ane\u0301 \ud83d\udcab",
-      "title": "Who\u2019s on air?",
+      "creator": "ané 💫",
+      "title": "Who’s on air?",
       "url": "https://www.instagram.com/p/DZRosuytID2/",
       "date": "2026-06-07"
      },
@@ -4063,7 +4133,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Video post",
       "creator": "MarcoMeatball",
-      "title": "Who\u2019s on air? https://t.co/VGfnde0d4B",
+      "title": "Who’s on air? https://t.co/VGfnde0d4B",
       "url": "https://www.twitter.com/page/status/2063516359724618150",
       "date": "2026-06-07"
      },
@@ -4072,8 +4142,8 @@ window.__QA_DATA = {
       "eng": 19,
       "platform": "X",
       "kind": "Video post",
-      "creator": "hai \ud83d\udc30 PAX WEST",
-      "title": "Who\u2019s on air? https://t.co/pGMhkRH0ZO",
+      "creator": "hai 🐰 PAX WEST",
+      "title": "Who’s on air? https://t.co/pGMhkRH0ZO",
       "url": "https://www.twitter.com/page/status/2063516423910269132",
       "date": "2026-06-07"
      },
@@ -4083,7 +4153,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Video post",
       "creator": "Jordan",
-      "title": "Who\u2019s on air? https://t.co/RvQ6qPc0GJ",
+      "title": "Who’s on air? https://t.co/RvQ6qPc0GJ",
       "url": "https://www.twitter.com/page/status/2063517610994815163",
       "date": "2026-06-07"
      },
@@ -4093,7 +4163,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Suhtired",
-      "title": "Who\u2019s on air?",
+      "title": "Who’s on air?",
       "url": "https://www.youtube.com/watch?v=kfksdyYBmVw",
       "date": "2026-06-07"
      },
@@ -4103,7 +4173,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Suhtired",
-      "title": "Who\u2019s on air?",
+      "title": "Who’s on air?",
       "url": "https://www.instagram.com/p/DZRowkxOnsp/",
       "date": "2026-06-07"
      }
@@ -4122,7 +4192,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-07-28",
    "end": "2026-08-04",
-   "window": "Jul 28 \u2013 Aug 4",
+   "window": "Jul 28 – Aug 4",
    "vi": 37809,
    "eng": 1898,
    "pubs": 36,
@@ -4179,13 +4249,14 @@ window.__QA_DATA = {
    "caveats": [
     "Quest value: no cash cost. The incentive was Network Test access.",
     "The top three creators drove 61% of views and 67% of engagements; 65% of creators posted on two or more platforms.",
-    "The deck cover says Aug 26 \u2013 Sep 1, but the quest window inside is Jul 28 \u2013 Aug 4."
+    "The deck cover says Aug 26 – Sep 1, but the quest window inside is Jul 28 – Aug 4.",
+    "2 posts (5,052 views) also count toward Chaos Emerald Hunt Leaderboard, TMNT Arrives in Sonic Racing: CrossWorlds."
    ],
    "basis": "vi",
    "url": "",
    "source": "pdf",
    "qid": "q-welcome-to-the-west-coast-crazy-taxi-world-tour",
-   "sheet": "Welcome to the West Coast \u2014 Crazy Taxi: World Tour 7/28",
+   "sheet": "Welcome to the West Coast — Crazy Taxi: World Tour 7/28",
    "formats": {
     "short": {
      "n": 35,
@@ -4248,7 +4319,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Alicia Rancier",
-      "title": "As a longtime Dreamcast and Crazy Taxi fan, I couldn\u2019t be more excited for Crazy Taxi: World Tour launching ne",
+      "title": "As a longtime Dreamcast and Crazy Taxi fan, I couldn’t be more excited for Crazy Taxi: World Tour launching ne",
       "url": "https://www.instagram.com/p/DbdhwgsOdsF/",
       "date": "2026-07-31"
      },
@@ -4258,7 +4329,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Andy Steig | LoveRetroBTW",
-      "title": "As a Dreamcast fan, I\u2019m thrilled about the Crazy Taxi World Tour! They\u2019ve just announced a West Coast location",
+      "title": "As a Dreamcast fan, I’m thrilled about the Crazy Taxi World Tour! They’ve just announced a West Coast location",
       "url": "https://www.instagram.com/p/DbWmWs8StDZ/",
       "date": "2026-07-28"
      },
@@ -4278,7 +4349,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Emidivergent",
-      "title": "WEST COAST \ud83d\ude95 CLOSED NETWORK TEST \ud83d\udde3 LET'S GO \ud83d\udc9b #crazytaxiworldtour #segacreator #crazytaxi #reaction @crazytaxi",
+      "title": "WEST COAST 🚕 CLOSED NETWORK TEST 🗣 LET'S GO 💛 #crazytaxiworldtour #segacreator #crazytaxi #reaction @crazytaxi",
       "url": "https://www.instagram.com/p/DbWgx6ZspTr/",
       "date": "2026-07-28"
      },
@@ -4318,9 +4389,13 @@ window.__QA_DATA = {
    "actions": [
     [
      "Network Test",
-     "sign-ups were the quest\u2019s goal; the deck doesn\u2019t report a count"
+     "sign-ups were the quest’s goal; the deck doesn’t report a count"
     ]
-   ]
+   ],
+   "shared": {
+    "posts": 2,
+    "views": 5052
+   }
   },
   {
    "id": "ct-back",
@@ -4329,7 +4404,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-07",
    "end": "2026-06-14",
-   "window": "Jun 7 \u2013 Jun 14",
+   "window": "Jun 7 – Jun 14",
    "vi": 1546201,
    "eng": 56297,
    "pubs": 41,
@@ -4381,7 +4456,7 @@ window.__QA_DATA = {
      "eng": 32383
     },
     {
-     "creator": "Eri la Nutria \ud83e\udda6 E&E \ud83d\udc95",
+     "creator": "Eri la Nutria 🦦 E&E 💕",
      "platform": "Instagram",
      "format": "",
      "views": 76649,
@@ -4400,7 +4475,8 @@ window.__QA_DATA = {
     "One Instagram Reel by BeatzGames (1.22M views) drove 79% of views.",
     "888 Twitch hours watched on creator streams.",
     "A further 834 impressions on non-video posts are not counted in views, matching the recap decks.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "4 posts (3,594 views) also count toward Persona 4 Revival Xbox Games Showcase Reactions."
    ],
    "basis": "vi",
    "url": "",
@@ -4491,8 +4567,8 @@ window.__QA_DATA = {
       "eng": 5036,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Eri la Nutria \ud83e\udda6 E&E \ud83d\udc95",
-      "title": "\ud83d\ude2d\ud83d\udd25Crazy Taxi World Tour llega al Xbox Games Showcase y la rompe con la m\u00fasica original \ud83d\ude2d\ud83d\udd25 Reaccionamos a la br",
+      "creator": "Eri la Nutria 🦦 E&E 💕",
+      "title": "😭🔥Crazy Taxi World Tour llega al Xbox Games Showcase y la rompe con la música original 😭🔥 Reaccionamos a la br",
       "url": "https://www.instagram.com/p/DZTbGYjuoyE/",
       "date": "2026-06-07"
      },
@@ -4512,7 +4588,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Emidivergent",
-      "title": "CRAZY TAXI IS ALL I WANT \ud83d\udde3 #crazytaxiworldtour #crazytaxi #segacreator #summergamefest @crazytaxi_game",
+      "title": "CRAZY TAXI IS ALL I WANT 🗣 #crazytaxiworldtour #crazytaxi #segacreator #summergamefest @crazytaxi_game",
       "url": "https://www.instagram.com/p/DZTRpDFNY6r/",
       "date": "2026-06-07"
      },
@@ -4532,7 +4608,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "EriVlt (Eri La Nutria)",
-      "title": "Crazy Taxi World Tour llega al Xbox Games Showcase y la rompe con la m\u00fasica original \ud83d\ude2d\ud83d\udd25 #CrazyTaxiWorldTour #C",
+      "title": "Crazy Taxi World Tour llega al Xbox Games Showcase y la rompe con la música original 😭🔥 #CrazyTaxiWorldTour #C",
       "url": "https://www.youtube.com/watch?v=CajTWgCC7bQ",
       "date": "2026-06-07"
      }
@@ -4542,6 +4618,10 @@ window.__QA_DATA = {
     "tracked": 25,
     "returning": 13,
     "new": 12
+   },
+   "shared": {
+    "posts": 4,
+    "views": 3594
    }
   },
   {
@@ -4551,7 +4631,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-05-05",
    "end": "2026-05-31",
-   "window": "May 5 \u2013 May 31",
+   "window": "May 5 – May 31",
    "vi": 728359,
    "eng": 37798,
    "pubs": 33,
@@ -4613,7 +4693,7 @@ window.__QA_DATA = {
    ],
    "summary": "12 creators published 33 pieces for 728.4K views & impressions and 37.8K engagements; YouTube led with 56% of views.",
    "caveats": [
-    "Covers the Xbox Presents co-stream (May 5\u20136) and Meet the Cast (May 11\u201331) pilot quests in one export.",
+    "Covers the Xbox Presents co-stream (May 5–6) and Meet the Cast (May 11–31) pilot quests in one export.",
     "LevelUp flags 9 posts (118.9K views) as paid partnerships.",
     "1,916 Twitch hours watched on creator streams.",
     "A further 29,381 impressions on non-video posts are not counted in views, matching the recap decks.",
@@ -4693,7 +4773,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Ms 5000 Watts",
-      "title": "Stranger Than Heaven Cast is WILD \ud83e\udd2f #StrangerThanHeaven #SnoopDogg #Ado",
+      "title": "Stranger Than Heaven Cast is WILD 🤯 #StrangerThanHeaven #SnoopDogg #Ado",
       "url": "https://www.youtube.com/watch?v=-AkhsJhUGvA",
       "date": "2026-05-11"
      },
@@ -4703,7 +4783,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Ms 5000 Watts",
-      "title": "Stranger Than Heaven Cast is WILD \ud83e\udd2f #ms5000watts #gamingreels",
+      "title": "Stranger Than Heaven Cast is WILD 🤯 #ms5000watts #gamingreels",
       "url": "https://www.instagram.com/p/DYM-6f6D6S2/",
       "date": "2026-05-11"
      },
@@ -4742,7 +4822,7 @@ window.__QA_DATA = {
       "eng": 663,
       "platform": "X",
       "kind": "Video post",
-      "creator": "CrystAAHHL\ud83d\udd1c Otakuthon",
+      "creator": "CrystAAHHL🔜 Otakuthon",
       "title": "WHO ELSE IS SUPER HYPED FOR STRANGER THAN HEAVEN?!?! HOLY SHIIITTTT THEY KILLED THIS TRAILER https://t.co/8X1e",
       "url": "https://www.twitter.com/page/status/2052182922765992298",
       "date": "2026-05-07"
@@ -4762,7 +4842,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-04",
    "end": "2026-06-18",
-   "window": "Jun 4 \u2013 18",
+   "window": "Jun 4 – 18",
    "vi": 966000,
    "eng": 37100,
    "pubs": 29,
@@ -4827,7 +4907,8 @@ window.__QA_DATA = {
     "Reported as one combined recap for Stranger Than Heaven SGF Reactions and both RGG Developer Sale quests (Favorite Yakuza, First Time Player).",
     "Okami Games (KAMI) drove 813.8K views and 28.9K engagements across X and TikTok, most of the total.",
     "The deck's numbers don't fully reconcile: 918.2K views plus 2.0K impressions is 920.2K, but its snapshot shows 966K views & impressions and 1.03M total exposure.",
-    "Fix before sending: the title reads \"SFG\" and \"Stranger Than Haven\", and the appendix slides are labeled \"Sonic Cross Worlds\"."
+    "Fix before sending: the title reads \"SFG\" and \"Stranger Than Haven\", and the appendix slides are labeled \"Sonic Cross Worlds\".",
+    "4 posts (12,795 views) also count toward Alien: Isolation 2 Summer Games Fest Reactions, Persona 4 Revival Xbox Games Showcase Reactions, Sonic Summer Games Fest Announcements Reactions."
    ],
    "basis": "vi",
    "url": "",
@@ -4903,7 +4984,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Video post",
       "creator": "KAMI",
-      "title": "Stranger Than Heaven releases January 15th, 2027. TUPAC IS IN THE GAME WTF \ud83d\ude2d #StrangerThanHeaven #SummerGameFe",
+      "title": "Stranger Than Heaven releases January 15th, 2027. TUPAC IS IN THE GAME WTF 😭 #StrangerThanHeaven #SummerGameFe",
       "url": "https://www.twitter.com/page/status/2063009440593281191",
       "date": "2026-06-05"
      },
@@ -4913,7 +4994,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "KAMI",
-      "title": "Well that was unexpected \ud83d\ude2d Tupac is in Stranger Than Heaven. Release date officially confirmed for January 15t",
+      "title": "Well that was unexpected 😭 Tupac is in Stranger Than Heaven. Release date officially confirmed for January 15t",
       "url": "https://www.tiktok.com/@user/video/7648034419344821518",
       "date": "2026-06-06"
      },
@@ -4923,7 +5004,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Schizo Forg",
-      "title": "Tupac y Snoop Dogg en este videojuego tiene un motivo \ud83d\udc40 | @sth_game #strangerthanheavenpartner #snoopdogg #vid",
+      "title": "Tupac y Snoop Dogg en este videojuego tiene un motivo 👀 | @sth_game #strangerthanheavenpartner #snoopdogg #vid",
       "url": "https://www.instagram.com/p/DZQFphBOMop/",
       "date": "2026-06-06"
      },
@@ -4943,7 +5024,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Schizo Forg",
-      "title": "\u00bfTupac y Slugdog en un videojuego de 2026? \u00a1Esto es una LOCURA! #shorts #gaming #StrangerThanHeaven #SEGA #Yak",
+      "title": "¿Tupac y Slugdog en un videojuego de 2026? ¡Esto es una LOCURA! #shorts #gaming #StrangerThanHeaven #SEGA #Yak",
       "url": "https://www.youtube.com/watch?v=X5uSZsyuTKw",
       "date": "2026-06-06"
      },
@@ -4963,6 +5044,10 @@ window.__QA_DATA = {
     "tracked": 13,
     "returning": 4,
     "new": 9
+   },
+   "shared": {
+    "posts": 4,
+    "views": 12795
    }
   },
   {
@@ -4972,7 +5057,7 @@ window.__QA_DATA = {
    "type": "Collab",
    "start": "2026-06-08",
    "end": "2026-06-30",
-   "window": "Jun 8 \u2013 Jun 30",
+   "window": "Jun 8 – Jun 30",
    "vi": 61806,
    "eng": 5827,
    "pubs": 13,
@@ -5011,21 +5096,21 @@ window.__QA_DATA = {
    ],
    "top": [
     {
-     "creator": "Nemesis \u2b50\ufe0f",
+     "creator": "Nemesis ⭐️",
      "platform": "TikTok",
      "format": "",
      "views": 24300,
      "eng": 2926
     },
     {
-     "creator": "\ud835\udce2\ud835\udd32\ud835\udd20\ud835\udd20\ud835\udd32\ud835\udd05\ud835\udd1e\ud835\udd22 \ud835\udd07\ud835\udd1e\ud835\udd2b\ud835\udd2b\ud835\udd26\ud835\udd22\ud83d\udda4",
+     "creator": "𝓢𝔲𝔠𝔠𝔲𝔅𝔞𝔢 𝔇𝔞𝔫𝔫𝔦𝔢🖤",
      "platform": "Instagram",
      "format": "",
      "views": 6723,
      "eng": 307
     },
     {
-     "creator": "Kori-Maru \ud83d\udd1c Shinobi: Art of Vengeance",
+     "creator": "Kori-Maru 🔜 Shinobi: Art of Vengeance",
      "platform": "X",
      "format": "",
      "views": 6586,
@@ -5102,8 +5187,8 @@ window.__QA_DATA = {
       "eng": 2926,
       "platform": "TikTok",
       "kind": "TikTok",
-      "creator": "Nemesis \u2b50\ufe0f",
-      "title": "and guess what? I JUST GOT APPROVED AS AN OFFICIAL @SEGA Official CONTENT CREATOR \ud83e\udd79 very hype for the future o",
+      "creator": "Nemesis ⭐️",
+      "title": "and guess what? I JUST GOT APPROVED AS AN OFFICIAL @SEGA Official CONTENT CREATOR 🥹 very hype for the future o",
       "url": "https://www.tiktok.com/@user/video/7648100629503593741",
       "date": "2026-06-06"
      },
@@ -5112,8 +5197,8 @@ window.__QA_DATA = {
       "eng": 307,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "\ud835\udce2\ud835\udd32\ud835\udd20\ud835\udd20\ud835\udd32\ud835\udd05\ud835\udd1e\ud835\udd22 \ud835\udd07\ud835\udd1e\ud835\udd2b\ud835\udd2b\ud835\udd26\ud835\udd22\ud83d\udda4",
-      "title": "Sonic the Hedgehog x Initial D next?\ud83d\udc40 #segacreator @sonicthehedgehog",
+      "creator": "𝓢𝔲𝔠𝔠𝔲𝔅𝔞𝔢 𝔇𝔞𝔫𝔫𝔦𝔢🖤",
+      "title": "Sonic the Hedgehog x Initial D next?👀 #segacreator @sonicthehedgehog",
       "url": "https://www.instagram.com/p/DZtFoNWtqaq/",
       "date": "2026-06-17"
      },
@@ -5122,7 +5207,7 @@ window.__QA_DATA = {
       "eng": 238,
       "platform": "X",
       "kind": "Video post",
-      "creator": "Kori-Maru \ud83d\udd1c Shinobi: Art of Vengeance",
+      "creator": "Kori-Maru 🔜 Shinobi: Art of Vengeance",
       "title": "Crazy that we're getting Year 2 support for Sonic Racing: CrossWorlds! With that, I have made a wishlist of co",
       "url": "https://www.twitter.com/page/status/2065433950210969747",
       "date": "2026-06-12"
@@ -5132,8 +5217,8 @@ window.__QA_DATA = {
       "eng": 795,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Anna Cosplay \ud83d\udc9c",
-      "title": "Infinite-The Jackal playing Sonic Racing Crossworlds\ud83d\udc3a\ud83d\udd3b\ud83c\udfae Happy 35th Birthday, Sonic!\ud83c\udf89 Unfortunately a certain g",
+      "creator": "Anna Cosplay 💜",
+      "title": "Infinite-The Jackal playing Sonic Racing Crossworlds🐺🔻🎮 Happy 35th Birthday, Sonic!🎉 Unfortunately a certain g",
       "url": "https://www.instagram.com/p/DZ0grINs1lC/",
       "date": "2026-06-20"
      },
@@ -5143,7 +5228,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "RabbidEdge",
-      "title": "Infinite-The Jackal playing Sonic Racing Crossworlds\ud83d\udc3a\ud83d\udd3b\ud83c\udfae Happy 35th Birthday, Sonic!\ud83c\udf89 Unfortunately a certain g",
+      "title": "Infinite-The Jackal playing Sonic Racing Crossworlds🐺🔻🎮 Happy 35th Birthday, Sonic!🎉 Unfortunately a certain g",
       "url": "https://www.tiktok.com/@user/video/7653570302533815574",
       "date": "2026-06-20"
      },
@@ -5172,7 +5257,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-05",
    "end": "2026-06-10",
-   "window": "Jun 5 \u2013 Jun 10",
+   "window": "Jun 5 – Jun 10",
    "vi": 285357,
    "eng": 20017,
    "pubs": 46,
@@ -5217,7 +5302,7 @@ window.__QA_DATA = {
    ],
    "top": [
     {
-     "creator": "Eri la Nutria \ud83e\udda6 E&E \ud83d\udc95",
+     "creator": "Eri la Nutria 🦦 E&E 💕",
      "platform": "Instagram",
      "format": "",
      "views": 146861,
@@ -5243,7 +5328,8 @@ window.__QA_DATA = {
     "Eri la Nutria's Instagram Reel (146.9K views) drove 51% of views.",
     "684 Twitch hours watched on creator streams.",
     "A further 38,140 impressions on non-video posts are not counted in views, matching the recap decks.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "3 posts (2,241 views) also count toward Alien: Isolation 2 Summer Games Fest Reactions, Stranger Than Heaven SGF Reactions + RGG Developer Sale."
    ],
    "basis": "vi",
    "url": "",
@@ -5318,8 +5404,8 @@ window.__QA_DATA = {
       "eng": 10001,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Eri la Nutria \ud83e\udda6 E&E \ud83d\udc95",
-      "title": "Godzilla y Hatsune Miku juntos en Sonic Racing Crossworlds es REAL \ud83d\ude2d\ud83d\udd25 La locura de los crossovers lleg\u00f3 a su l",
+      "creator": "Eri la Nutria 🦦 E&E 💕",
+      "title": "Godzilla y Hatsune Miku juntos en Sonic Racing Crossworlds es REAL 😭🔥 La locura de los crossovers llegó a su l",
       "url": "https://www.instagram.com/p/DZOdJlzMmhS/",
       "date": "2026-06-06"
      },
@@ -5339,7 +5425,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Short",
       "creator": "EriVlt (Eri La Nutria)",
-      "title": "Godzilla y Hatsune Miku juntos en Sonic Racing Crossworlds es REAL \ud83d\ude2d\ud83d\udd25 #SEGAcreator #sonic #sonicracingcrosswor",
+      "title": "Godzilla y Hatsune Miku juntos en Sonic Racing Crossworlds es REAL 😭🔥 #SEGAcreator #sonic #sonicracingcrosswor",
       "url": "https://www.youtube.com/watch?v=Bu-ViWYwbRs",
       "date": "2026-06-06"
      },
@@ -5379,6 +5465,10 @@ window.__QA_DATA = {
     "tracked": 26,
     "returning": 6,
     "new": 20
+   },
+   "shared": {
+    "posts": 3,
+    "views": 2241
    }
   },
   {
@@ -5388,7 +5478,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-07",
    "end": "2026-06-11",
-   "window": "Jun 7 \u2013 Jun 11",
+   "window": "Jun 7 – Jun 11",
    "vi": 289,
    "eng": 5,
    "pubs": 2,
@@ -5477,7 +5567,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Video",
       "creator": "Aolynn",
-      "title": "TOTAL WAR: WARHAMMER 40,000 \u2728 First Look Impression \u2728 #sponsored #SEGAcreator @totalwar #segacreator",
+      "title": "TOTAL WAR: WARHAMMER 40,000 ✨ First Look Impression ✨ #sponsored #SEGAcreator @totalwar #segacreator",
       "url": "https://www.youtube.com/watch?v=dA2hfjvEL8M",
       "date": "2026-06-08"
      }
@@ -5496,7 +5586,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-05",
    "end": "2026-06-10",
-   "window": "Jun 5 \u2013 Jun 10",
+   "window": "Jun 5 – Jun 10",
    "vi": 23907,
    "eng": 1274,
    "pubs": 17,
@@ -5554,7 +5644,8 @@ window.__QA_DATA = {
    "caveats": [
     "645 Twitch hours watched on creator streams.",
     "A further 709 impressions on non-video posts are not counted in views, matching the recap decks.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "5 posts (15,032 views) also count toward Stranger Than Heaven SGF Reactions + RGG Developer Sale, Persona 4 Revival Xbox Games Showcase Reactions, Sonic Summer Games Fest Announcements Reactions."
    ],
    "basis": "vi",
    "url": "",
@@ -5618,7 +5709,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Video",
       "creator": "Welonz",
-      "title": "\ud83d\udc7d Alien Isolation 2 Reveal | Reaction & Thoughts #AlienIsolation2 #AlienIsolation #SEGA",
+      "title": "👽 Alien Isolation 2 Reveal | Reaction & Thoughts #AlienIsolation2 #AlienIsolation #SEGA",
       "url": "https://www.youtube.com/watch?v=bkHaUw-m_3s",
       "date": "2026-06-06"
      },
@@ -5668,7 +5759,7 @@ window.__QA_DATA = {
       "platform": "YouTube",
       "kind": "Video",
       "creator": "Aolynn",
-      "title": "ALIEN ISOLATION 2 \u2728 Summer Game Fest Reaction \u2728 #SEGAcreator @AlienIsolation #AlienIsolation2",
+      "title": "ALIEN ISOLATION 2 ✨ Summer Game Fest Reaction ✨ #SEGAcreator @AlienIsolation #AlienIsolation2",
       "url": "https://www.youtube.com/watch?v=yBVWs1g6L4Q",
       "date": "2026-06-08"
      }
@@ -5678,6 +5769,10 @@ window.__QA_DATA = {
     "tracked": 9,
     "returning": 6,
     "new": 3
+   },
+   "shared": {
+    "posts": 5,
+    "views": 15032
    }
   },
   {
@@ -5687,7 +5782,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-18",
    "end": "2026-06-30",
-   "window": "Jun 18 \u2013 Jun 30",
+   "window": "Jun 18 – Jun 30",
    "vi": 39778,
    "eng": 2139,
    "pubs": 24,
@@ -5744,7 +5839,8 @@ window.__QA_DATA = {
    "summary": "17 creators published 24 pieces for 39.8K views & impressions and 2,139 engagements; Instagram led with 47% of views.",
    "caveats": [
     "The Switch 2 launch recap's LevelUp window also starts Jun 18, so up to 39.8K views may be counted in both.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "1 post (41 views) also counts toward Persona 4 Revival 6.18 Broadcast Watch-Along."
    ],
    "basis": "vi",
    "url": "",
@@ -5880,6 +5976,10 @@ window.__QA_DATA = {
     "tracked": 13,
     "returning": 8,
     "new": 5
+   },
+   "shared": {
+    "posts": 1,
+    "views": 41
    }
   },
   {
@@ -5889,7 +5989,7 @@ window.__QA_DATA = {
    "type": "Collab",
    "start": "2026-07-24",
    "end": "2026-08-04",
-   "window": "Jul 24 \u2013 Aug 4",
+   "window": "Jul 24 – Aug 4",
    "vi": 51510,
    "eng": 2531,
    "pubs": 54,
@@ -5935,7 +6035,7 @@ window.__QA_DATA = {
      "eng": 515
     },
     {
-     "creator": "Anna Cosplay \ud83d\udc9c",
+     "creator": "Anna Cosplay 💜",
      "platform": "Instagram",
      "format": "",
      "views": 5705,
@@ -5953,7 +6053,8 @@ window.__QA_DATA = {
    "caveats": [
     "4,160 Twitch hours watched on creator streams.",
     "A further 1,497 impressions on non-video posts are not counted in views, matching the recap decks.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "6 posts (11,132 views) also count toward Chaos Emerald Hunt Leaderboard, Welcome to the West Coast: Crazy Taxi World Tour."
    ],
    "basis": "vi",
    "url": "",
@@ -6029,7 +6130,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Mae Renfroe",
-      "title": "Sonic Racing CrossWorlds just got a little more green! \ud83d\udc22\ud83c\udf55\ud83d\udc99 @sonicthehedgehog @segaofficial @tmnt #sonicracingc",
+      "title": "Sonic Racing CrossWorlds just got a little more green! 🐢🍕💙 @sonicthehedgehog @segaofficial @tmnt #sonicracingc",
       "url": "https://www.instagram.com/p/DbL_BNwTOfl/",
       "date": "2026-07-24"
      },
@@ -6038,8 +6139,8 @@ window.__QA_DATA = {
       "eng": 576,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Anna Cosplay \ud83d\udc9c",
-      "title": "Stuck in Europe and missing all the cool Sonic-events?\ud83d\ude2a The Sonic Racing CW x TMNT Festival is officially LIVE",
+      "creator": "Anna Cosplay 💜",
+      "title": "Stuck in Europe and missing all the cool Sonic-events?😪 The Sonic Racing CW x TMNT Festival is officially LIVE",
       "url": "https://www.instagram.com/p/DbdhKGCsaKT/",
       "date": "2026-07-31"
      },
@@ -6059,7 +6160,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "RabbidEdge",
-      "title": "Stuck in Europe and missing all the cool Sonic-events?\ud83d\ude2a The Sonic Racing CW x TMNT Festival is officially LIVE",
+      "title": "Stuck in Europe and missing all the cool Sonic-events?😪 The Sonic Racing CW x TMNT Festival is officially LIVE",
       "url": "https://www.tiktok.com/@user/video/7668710068661030166",
       "date": "2026-07-31"
      },
@@ -6069,7 +6170,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Post",
       "creator": "Emidivergent",
-      "title": "TMNT IN CROSSWORLDS \ud83d\udde3 #sonicthehedgehog #sonicracingcrossworlds #tmnt #segacreator @sonicthehedgehog",
+      "title": "TMNT IN CROSSWORLDS 🗣 #sonicthehedgehog #sonicracingcrossworlds #tmnt #segacreator @sonicthehedgehog",
       "url": "https://www.instagram.com/p/Dbd2EdPpIpi/",
       "date": "2026-07-31"
      },
@@ -6089,6 +6190,10 @@ window.__QA_DATA = {
     "tracked": 28,
     "returning": 20,
     "new": 8
+   },
+   "shared": {
+    "posts": 6,
+    "views": 11132
    }
   },
   {
@@ -6098,7 +6203,7 @@ window.__QA_DATA = {
    "type": "Event",
    "start": "2026-07-01",
    "end": "2026-07-04",
-   "window": "Jul 1 \u2013 Jul 4",
+   "window": "Jul 1 – Jul 4",
    "vi": 102410,
    "eng": 5698,
    "pubs": 23,
@@ -6149,7 +6254,7 @@ window.__QA_DATA = {
    "caveats": [
     "Views & impressions = 100,985 views + 1,425 impressions, as the deck reports it.",
     "Quest value: $1,000 in incentives ($100 SEGA store gift cards), $9.76 effective CPM, $0.18 per engagement. Creators were not paid fees.",
-    "The deck lists its quest timeframe as Jul 2 \u2013 16 and one slide is headed \"Little Akihabara\"; both look carried over from the Akihabara deck. The quest ran Jul 1 \u2013 4.",
+    "The deck lists its quest timeframe as Jul 2 – 16 and one slide is headed \"Little Akihabara\"; both look carried over from the Akihabara deck. The quest ran Jul 1 – 4.",
     "TikTok views read 24,146 on the highlights slide and 24,917 on the platform slide."
    ],
    "basis": "vi",
@@ -6218,8 +6323,8 @@ window.__QA_DATA = {
       "eng": 14,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "SABRINA \ud83c\udf38 ANIME EVENTS & COSPLAYER",
-      "title": "\ud83c\udf00 Step into the SEGA booth at Anime Expo in South Hall 1300 to experience Persona, Sonic, Metaphor and Maimai ",
+      "creator": "SABRINA 🌸 ANIME EVENTS & COSPLAYER",
+      "title": "🌀 Step into the SEGA booth at Anime Expo in South Hall 1300 to experience Persona, Sonic, Metaphor and Maimai ",
       "url": "https://www.instagram.com/p/DaVp03ZispG/",
       "date": "2026-07-03"
      },
@@ -6228,8 +6333,8 @@ window.__QA_DATA = {
       "eng": 1107,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "ItsTiffanie | Nintendo Enjoyer\ud83d\udccdLA/OC",
-      "title": "Everything I did at the SEGA booth at AX\u2014 and how to get the free posters! \ud83d\udc99 \ud83d\udccd Los Angeles Convention Center, ",
+      "creator": "ItsTiffanie | Nintendo Enjoyer📍LA/OC",
+      "title": "Everything I did at the SEGA booth at AX— and how to get the free posters! 💙 📍 Los Angeles Convention Center, ",
       "url": "https://www.instagram.com/p/DaT8yX6NkUM/",
       "date": "2026-07-03"
      },
@@ -6248,8 +6353,8 @@ window.__QA_DATA = {
       "eng": 862,
       "platform": "TikTok",
       "kind": "TikTok",
-      "creator": "SABRINA \ud83c\udf38 ANIME EVENTS/COLLAB",
-      "title": "\ud83c\udf00 Step into the SEGA booth at Anime Expo in South Hall 1300 to experience Persona, Sonic, Metaphor and Maimai ",
+      "creator": "SABRINA 🌸 ANIME EVENTS/COLLAB",
+      "title": "🌀 Step into the SEGA booth at Anime Expo in South Hall 1300 to experience Persona, Sonic, Metaphor and Maimai ",
       "url": "https://www.tiktok.com/@user/video/7658347350489894175",
       "date": "2026-07-03"
      },
@@ -6259,7 +6364,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "ItsTiffanie Twitch:ItsTiffanie",
-      "title": "Everything I did at the SEGA booth at AX\u2014 and how to get the free posters! \ud83d\udc99 \ud83d\udccd Los Angeles Convention Center, ",
+      "title": "Everything I did at the SEGA booth at AX— and how to get the free posters! 💙 📍 Los Angeles Convention Center, ",
       "url": "https://www.tiktok.com/@user/video/7658101943633497374",
       "date": "2026-07-03"
      },
@@ -6268,7 +6373,7 @@ window.__QA_DATA = {
       "eng": 350,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "\ud835\udd71\ud835\udd97\ud835\udd86\ud835\udd93\ud835\udd88\ud835\udd94",
+      "creator": "𝕱𝖗𝖆𝖓𝖈𝖔",
       "title": "COME STOP BY THE @sega BOOTH THIS WEEKEND AT @animeexpo AND SAY HI AND GET AMAZING SEGA GOODIES!!! @sonicthehe",
       "url": "https://www.instagram.com/p/DaUeVjxhcGg/",
       "date": "2026-07-03"
@@ -6295,7 +6400,7 @@ window.__QA_DATA = {
    "type": "Event",
    "start": "2026-06-29",
    "end": "2026-07-16",
-   "window": "Jun 29 \u2013 Jul 16",
+   "window": "Jun 29 – Jul 16",
    "vi": 104269,
    "eng": 11286,
    "pubs": 34,
@@ -6415,7 +6520,7 @@ window.__QA_DATA = {
       "eng": 2691,
       "platform": "TikTok",
       "kind": "TikTok",
-      "creator": "Suzu \ud83d\udd37",
+      "creator": "Suzu 🔷",
       "title": "the SEGA little akihabara store in little tokyo is open now until the 19th of july!!! definitely go check it o",
       "url": "https://www.tiktok.com/@user/video/7658816025579851022",
       "date": "2026-07-04"
@@ -6425,8 +6530,8 @@ window.__QA_DATA = {
       "eng": 1267,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "ItsTiffanie | Nintendo Enjoyer\ud83d\udccdLA/OC",
-      "title": "Some info for the SEGA Pop-Up shop in Los Angeles! \ud83d\udc99 Hope this helps! \ud83d\udccd Little Tokyo Mall, 319 E 2nd St, Los A",
+      "creator": "ItsTiffanie | Nintendo Enjoyer📍LA/OC",
+      "title": "Some info for the SEGA Pop-Up shop in Los Angeles! 💙 Hope this helps! 📍 Little Tokyo Mall, 319 E 2nd St, Los A",
       "url": "https://www.instagram.com/p/DaMtO5JBPU2/",
       "date": "2026-06-30"
      },
@@ -6435,8 +6540,8 @@ window.__QA_DATA = {
       "eng": 561,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "Aly \ud83e\udd87",
-      "title": "Super late post but first post since becoming a sega creator! If you\u2019re going to anime expo you should totally",
+      "creator": "Aly 🦇",
+      "title": "Super late post but first post since becoming a sega creator! If you’re going to anime expo you should totally",
       "url": "https://www.instagram.com/p/DaMnIhOtNnE/",
       "date": "2026-06-30"
      },
@@ -6446,7 +6551,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "ItsTiffanie Twitch:ItsTiffanie",
-      "title": "Some info for the SEGA Pop-Up shop in Los Angeles! \ud83d\udc99 Hope this helps! \ud83d\udccd Little Tokyo Mall, 319 E 2nd St, Los A",
+      "title": "Some info for the SEGA Pop-Up shop in Los Angeles! 💙 Hope this helps! 📍 Little Tokyo Mall, 319 E 2nd St, Los A",
       "url": "https://www.tiktok.com/@user/video/7657057779865210142",
       "date": "2026-06-30"
      },
@@ -6455,7 +6560,7 @@ window.__QA_DATA = {
       "eng": 405,
       "platform": "X",
       "kind": "Video post",
-      "creator": "Suzu \u2744\ufe0f",
+      "creator": "Suzu ❄️",
       "title": "https://t.co/NVgLJJyDvm",
       "url": "https://www.twitter.com/page/status/2073547788718379315",
       "date": "2026-07-04"
@@ -6466,7 +6571,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "soohee",
-      "title": "I went to the SEGA Little Akihabara Pop-up in DTLA! it's open until July 19th so get there before it ends \ud83e\udef5\ud83e\ude75 \ud83d\udccd",
+      "title": "I went to the SEGA Little Akihabara Pop-up in DTLA! it's open until July 19th so get there before it ends 🫵🩵 📍",
       "url": "https://www.instagram.com/p/Da38XpyMDEG/",
       "date": "2026-07-17"
      }
@@ -6492,7 +6597,7 @@ window.__QA_DATA = {
    "type": "Sale",
    "start": "2026-06-29",
    "end": "2026-07-07",
-   "window": "Jun 29 \u2013 Jul 7",
+   "window": "Jun 29 – Jul 7",
    "vi": 60357,
    "eng": 4122,
    "pubs": 30,
@@ -6554,7 +6659,7 @@ window.__QA_DATA = {
    ],
    "summary": "27 creators published 30 pieces for 60.4K views & impressions and 4,122 engagements; YouTube led with 49% of views.",
    "caveats": [
-    "From the export named \"RGG Developer Sale\": 28 of 29 posts fall in the Steam sale window (Jun 29 \u2013 Jul 7), so it is matched here.",
+    "From the export named \"RGG Developer Sale\": 28 of 29 posts fall in the Steam sale window (Jun 29 – Jul 7), so it is matched here.",
     "Includes a Sonic video (Dolphyn's Deck, 22.1K views) promoting the wider sale.",
     "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
    ],
@@ -6635,7 +6740,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Alicia Rancier",
-      "title": "THIS IS YOUR SIGN TO PICK UP YAZUKA 0: DIRECTOR\u2019S CUT! \ud83d\udc79\ud83d\udd25 . Right now, The Steam Summer Sale is going on throu",
+      "title": "THIS IS YOUR SIGN TO PICK UP YAZUKA 0: DIRECTOR’S CUT! 👹🔥 . Right now, The Steam Summer Sale is going on throu",
       "url": "https://www.instagram.com/p/DaOXQv2PaGf/",
       "date": "2026-06-30"
      },
@@ -6655,7 +6760,7 @@ window.__QA_DATA = {
       "platform": "X",
       "kind": "Video post",
       "creator": "Alice",
-      "title": "THIS IS YOUR SIGN TO PICK UP YAZUKA 0: DIRECTOR\u2019S CUT! \ud83d\udc79\ud83d\udd25 Right now, The Steam Summer Sale is going on through",
+      "title": "THIS IS YOUR SIGN TO PICK UP YAZUKA 0: DIRECTOR’S CUT! 👹🔥 Right now, The Steam Summer Sale is going on through",
       "url": "https://www.twitter.com/page/status/2072095005368291693",
       "date": "2026-06-30"
      },
@@ -6675,7 +6780,7 @@ window.__QA_DATA = {
       "platform": "TikTok",
       "kind": "TikTok",
       "creator": "Alicia Rancier",
-      "title": "THIS IS YOUR SIGN TO PICK UP YAZUKA 0: DIRECTOR\u2019S CUT! \ud83d\udc79\ud83d\udd25 . Right now, The Steam Summer Sale is going on throu",
+      "title": "THIS IS YOUR SIGN TO PICK UP YAZUKA 0: DIRECTOR’S CUT! 👹🔥 . Right now, The Steam Summer Sale is going on throu",
       "url": "https://www.tiktok.com/@user/video/7657329797135191309",
       "date": "2026-06-30"
      }
@@ -6694,7 +6799,7 @@ window.__QA_DATA = {
    "type": "Event",
    "start": "2026-08-27",
    "end": "2026-08-28",
-   "window": "Aug 27 \u2013 28",
+   "window": "Aug 27 – 28",
    "vi": 161845,
    "eng": 2977,
    "pubs": 29,
@@ -6761,7 +6866,8 @@ window.__QA_DATA = {
    "caveats": [
     "Sam Procrastinates' X post (88.8K views) drove 55% of views.",
     "A further 45,569 impressions on non-video posts are not counted in views.",
-    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export."
+    "Raw LevelUp export, not yet reviewed for off-topic posts. Where both exist, finished decks have come in at or below the raw export.",
+    "One Threads post is in the 29-post total but not in the platform split."
    ],
    "qid": "q-sega-creator-zone-club-chaos-tickets",
    "sheet": "Sega Creator Zone Club Chaos Tickets",
@@ -6847,7 +6953,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Jack",
-      "title": "Club Chaos can\u2019t handle all this. Reminder that tickets for Club Chaos go on sale 8/28! . . . #sonic #sonicthe",
+      "title": "Club Chaos can’t handle all this. Reminder that tickets for Club Chaos go on sale 8/28! . . . #sonic #sonicthe",
       "url": "https://www.instagram.com/p/Dcgbsi0KAGv/",
       "date": "2026-08-26"
      },
@@ -6856,8 +6962,8 @@ window.__QA_DATA = {
       "eng": 369,
       "platform": "X",
       "kind": "Post",
-      "creator": "emz \ud83d\ude3c\ud83c\udf53",
-      "title": "I will be here btw \ud83d\udc40 SO PULL UP https://t.co/hxGkIM1WqX",
+      "creator": "emz 😼🍓",
+      "title": "I will be here btw 👀 SO PULL UP https://t.co/hxGkIM1WqX",
       "url": "https://www.twitter.com/page/status/2093407167189508543",
       "date": "2026-08-28"
      },
@@ -6867,7 +6973,7 @@ window.__QA_DATA = {
       "platform": "Instagram",
       "kind": "Reel",
       "creator": "Jack",
-      "title": "PSA: Club Chaos tickets go on sale today at 12 PM EST (Presale) and 1 PM EST on SonicChaosHunt\u2019s website. The ",
+      "title": "PSA: Club Chaos tickets go on sale today at 12 PM EST (Presale) and 1 PM EST on SonicChaosHunt’s website. The ",
       "url": "https://www.instagram.com/p/DclivrKqA0Y/",
       "date": "2026-08-28"
      },
@@ -6896,7 +7002,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-06-05",
    "end": "2026-06-10",
-   "window": "Jun 5 \u2013 10",
+   "window": "Jun 5 – 10",
    "vi": 37900,
    "eng": 1700,
    "pubs": 12,
@@ -6938,7 +7044,7 @@ window.__QA_DATA = {
    "type": "Reveal & reaction",
    "start": "2026-10-08",
    "end": "2026-10-20",
-   "window": "Oct 8 \u2013 20",
+   "window": "Oct 8 – 20",
    "vi": 4534,
    "eng": 224,
    "pubs": 8,
@@ -7007,43 +7113,43 @@ window.__QA_DATA = {
   },
   {
    "id": "sth-preview",
-   "name": "Stranger Than Heaven NYC Preview",
+   "name": "Stranger Than Heaven NYC Preview Event",
    "ip": "rgg",
    "type": "Event",
    "start": "2026-10-21",
-   "end": "2026-10-23",
-   "window": "Oct 21 \u2013 23",
-   "vi": 34600,
-   "eng": 2039,
-   "pubs": 24,
-   "creators": 9,
+   "end": "2026-10-31",
+   "window": "Oct 21 – 31",
+   "vi": 639567,
+   "eng": 4348,
+   "pubs": 32,
+   "creators": 8,
    "basis": "vi",
-   "url": "",
-   "source": "export",
+   "url": "https://docs.google.com/presentation/d/1cwU2wqEVM3moh4yy0zAlk7r4M58QYPvUEujI5MjcwjY/edit",
+   "source": "pdf",
    "platforms": [
     {
+     "name": "TikTok",
+     "pubs": 7,
+     "vi": 501618,
+     "eng": 1626
+    },
+    {
      "name": "YouTube",
-     "pubs": 8,
-     "vi": 15919,
-     "eng": 710
+     "pubs": 12,
+     "vi": 118130,
+     "eng": 1467
     },
     {
      "name": "Instagram",
      "pubs": 4,
-     "vi": 11001,
-     "eng": 821
+     "vi": 12561,
+     "eng": 989
     },
     {
      "name": "X",
-     "pubs": 6,
-     "vi": 5469,
-     "eng": 203
-    },
-    {
-     "name": "TikTok",
-     "pubs": 5,
-     "vi": 2211,
-     "eng": 296
+     "pubs": 8,
+     "vi": 7258,
+     "eng": 257
     },
     {
      "name": "Bluesky",
@@ -7054,77 +7160,84 @@ window.__QA_DATA = {
    ],
    "top": [
     {
+     "creator": "Ariyawna",
+     "platform": "TikTok",
+     "format": "",
+     "views": 407816,
+     "eng": 979
+    },
+    {
      "creator": "Save Data",
      "platform": "YouTube",
      "format": "Short",
-     "views": 8802,
-     "eng": 438
+     "views": 94247,
+     "eng": 631
     },
     {
-     "creator": "an\u00e9",
-     "platform": "Instagram",
-     "format": "Reel",
-     "views": 6116,
-     "eng": 566
+     "creator": "Save Data",
+     "platform": "TikTok",
+     "format": "",
+     "views": 89929,
+     "eng": 117
     },
     {
-     "creator": "Sam Procrastinates",
+     "creator": "Raven Wing Plays",
      "platform": "YouTube",
      "format": "Video",
-     "views": 5050,
-     "eng": 198
+     "views": 11938,
+     "eng": 356
     }
    ],
-   "summary": "Creators who played Stranger Than Heaven early at the NYC preview event posted hands-on impressions when coverage opened on Oct 21: 9 creators, 24 publications, 34.6K views & impressions and 2.0K engagements. YouTube led with 46% of views.",
+   "summary": "Select creators played STRANGER THAN HEAVEN early at the NYC preview event and shared hands-on impressions: 8 creators, 32 publications across 5 platforms, 639.6K views & impressions and 4.3K engagements. Ariyawna and Save Data drove 93% of views.",
    "caveats": [
-    "Raw LevelUp export pulled Oct 23, two days into coverage; totals will grow and no recap deck has been built yet.",
-    "Three posts are flagged as paid partnerships (Save Data on YouTube, KarimCheese on Instagram, Raven Wing Plays on TikTok), 10.5K views together. All other posts are organic.",
-    "Uses the full video tab of the export (24 publications); the first tab only lists 9 social posts."
+    "Each post is counted once across the three STH Q4 quests. The deck counts 34 posts and 641.8K views; 2 posts (2.3K views) are counted under Act 1: Kokura instead.",
+    "Ariyawna's launch-day TikTok (407.8K views) drove 64% of views.",
+    "8 posts that also appear in the Final Impressions export are counted here, not there."
    ],
    "qid": "q-stranger-than-heaven-nyc-preview",
    "sheet": "Stranger Than Heaven NYC Preview",
    "formats": {
     "short": {
-     "n": 18,
-     "views": 27749,
-     "eng": 1736,
+     "n": 25,
+     "views": 618464,
+     "eng": 3640,
      "plats": [
       {
-       "name": "Instagram Reels",
-       "n": 4,
-       "views": 11001,
-       "eng": 821
+       "name": "TikTok",
+       "n": 7,
+       "views": 501618,
+       "eng": 1626
       },
       {
        "name": "YouTube Shorts",
-       "n": 5,
-       "views": 10632,
-       "eng": 487
+       "n": 8,
+       "views": 98736,
+       "eng": 840
+      },
+      {
+       "name": "Instagram Reels",
+       "n": 4,
+       "views": 12561,
+       "eng": 989
       },
       {
        "name": "X videos",
-       "n": 4,
-       "views": 3905,
-       "eng": 132
-      },
-      {
-       "name": "TikTok",
-       "n": 5,
-       "views": 2211,
-       "eng": 296
+       "n": 6,
+       "views": 5549,
+       "eng": 185
       }
      ]
     },
     "long": {
-     "n": 3,
-     "views": 5287,
-     "eng": 223,
+     "n": 4,
+     "views": 19394,
+     "eng": 627,
      "plats": [
       {
        "name": "YouTube",
-       "n": 3,
-       "views": 5287,
-       "eng": 223
+       "n": 4,
+       "views": 19394,
+       "eng": 627
       }
      ]
     },
@@ -7135,84 +7248,493 @@ window.__QA_DATA = {
     },
     "posts": {
      "n": 2,
-     "views": 1564,
+     "views": 1709,
      "eng": 0
     },
     "note": "",
     "hits": {
-     "videos": 21,
-     "k10": 0,
-     "k100": 0,
-     "median": 640
+     "videos": 29,
+     "k10": 4,
+     "k100": 1,
+     "median": 952
     },
     "gallery": [
      {
-      "views": 8802,
-      "eng": 438,
+      "views": 407816,
+      "eng": 979,
+      "platform": "TikTok",
+      "kind": "TikTok",
+      "creator": "Ari",
+      "title": "I GOT TO PLAY STRANGER THAN HEAVEN EARLY!! (If my reactions are a little quiet it’s because I was in a room of",
+      "url": "https://www.tiktok.com/@user/video/7699165941229210894",
+      "date": "2026-10-21"
+     },
+     {
+      "views": 94247,
+      "eng": 631,
       "platform": "YouTube",
       "kind": "Short",
       "creator": "Save Data",
-      "title": "IF you like Pizza, you'll like this game! \ud83d\udc40 #SEGACreator #ad #STRANGERTHANHEAVENpartner",
+      "title": "IF you like Pizza, you'll like this game! 👀 #SEGACreator #ad #STRANGERTHANHEAVENpartner",
       "url": "https://www.youtube.com/watch?v=u-jhjiRqqNk",
       "date": "2026-10-21"
      },
      {
-      "views": 6116,
-      "eng": 566,
+      "views": 89929,
+      "eng": 117,
+      "platform": "TikTok",
+      "kind": "TikTok",
+      "creator": "SaveDataTeam",
+      "title": "",
+      "url": "https://www.tiktok.com/@user/video/7699202946025786637",
+      "date": "2026-10-21"
+     },
+     {
+      "views": 11938,
+      "eng": 356,
+      "platform": "YouTube",
+      "kind": "Video",
+      "creator": "Raven Wing Plays",
+      "title": "I Played Stranger Than Heaven. It's Not What I Expected. #STRANGERTHANHEAVENpartner #SEGACreator #SegaCreator",
+      "url": "https://www.youtube.com/watch?v=h-dwCsGi_98",
+      "date": "2026-10-21"
+     },
+     {
+      "views": 7497,
+      "eng": 707,
       "platform": "Instagram",
       "kind": "Reel",
-      "creator": "ane\u0301 \ud83d\udcab",
-      "title": "10 THINGS I NOTICED IN STRANGER THAN HEAVEN AFTER PLAYING IT FOR 3.5 HOURS THANK YOU sega rggstudiowest #gamin",
+      "creator": "ané 💫",
+      "title": "10 THINGS I NOTICED IN STRANGER THAN HEAVEN AFTER PLAYING IT FOR 3.5 HOURS THANK YOU sega rggstudiowest #stran",
       "url": "https://www.instagram.com/p/DeyGOLkRpQE/",
       "date": "2026-10-22"
      },
      {
-      "views": 5050,
-      "eng": 198,
+      "views": 6948,
+      "eng": 229,
       "platform": "YouTube",
       "kind": "Video",
       "creator": "Sam Procrastinates",
       "title": "Stranger Than Heaven Is... #sega #rggstudio #yakuza",
       "url": "https://www.youtube.com/watch?v=MrGYSBOx8-g",
       "date": "2026-10-21"
-     },
-     {
-      "views": 2118,
-      "eng": 73,
-      "platform": "Instagram",
-      "kind": "Reel",
-      "creator": "Save Data Team",
-      "title": "We got invited to a preview event for Stranger than Heaven! What are your hype levels for this game? #stranger",
-      "url": "https://www.instagram.com/p/DexIO-CKqOL/",
-      "date": "2026-10-21"
-     },
-     {
-      "views": 1806,
-      "eng": 44,
-      "platform": "X",
-      "kind": "Video post",
-      "creator": "hai \ud83d\udc30 LOL WORLDS NYC",
-      "title": "Surprise \ud83e\udeea I got to play 3.5 hours of @STH_Game \ud83d\ude3c I\u2019ll be posting my thoughts in a short video series with 1 l",
-      "url": "https://www.twitter.com/page/status/2112932894955995487",
-      "date": "2026-10-21"
-     },
-     {
-      "views": 1738,
-      "eng": 85,
-      "platform": "Instagram",
-      "kind": "Reel",
-      "creator": "KarimCheese",
-      "title": "Got invited to NYC for an early first look at @sega and @rggstudiowest's new game Stranger Than Heaven! #SEGA ",
-      "url": "https://www.instagram.com/p/DexK5b5uGRc/",
-      "date": "2026-10-21"
      }
     ]
    },
    "crew": {
-    "tracked": 9,
-    "returning": 6,
-    "new": 3
+    "tracked": 8,
+    "returning": 7,
+    "new": 1
+   },
+   "viBasis": "Views, each post counted once across Stranger Than Heaven quests"
+  },
+  {
+   "id": "sth-kokura",
+   "name": "Stranger Than Heaven Act 1: Kokura Story Trailer Impressions",
+   "ip": "rgg",
+   "type": "Reveal & reaction",
+   "start": "2026-10-16",
+   "end": "2026-10-29",
+   "window": "Oct 16 – 29",
+   "vi": 69079,
+   "eng": 9269,
+   "pubs": 23,
+   "creators": 15,
+   "basis": "vi",
+   "url": "https://docs.google.com/presentation/d/1_lbtE7Ky5sAKsQExTZfI_OpKNzobUM5E73-nmf6V1DY/edit",
+   "source": "pdf",
+   "platforms": [
+    {
+     "name": "YouTube",
+     "pubs": 14,
+     "vi": 25903,
+     "eng": 2308
+    },
+    {
+     "name": "TikTok",
+     "pubs": 6,
+     "vi": 21889,
+     "eng": 3713
+    },
+    {
+     "name": "Instagram",
+     "pubs": 3,
+     "vi": 21287,
+     "eng": 3248
+    }
+   ],
+   "top": [
+    {
+     "creator": "Eri la Nutria",
+     "platform": "Instagram",
+     "format": "Reel",
+     "views": 19524,
+     "eng": 3173
+    },
+    {
+     "creator": "Eri la Nutria",
+     "platform": "YouTube",
+     "format": "Short",
+     "views": 19418,
+     "eng": 2144
+    },
+    {
+     "creator": "Eri la Nutria",
+     "platform": "TikTok",
+     "format": "",
+     "views": 18854,
+     "eng": 3435
+    },
+    {
+     "creator": "Raven Wing Plays",
+     "platform": "TikTok",
+     "format": "",
+     "views": 1803,
+     "eng": 172
+    }
+   ],
+   "summary": "Creators reacted to the STRANGER THAN HEAVEN Act 1: Kokura story trailer with Shorts, Reels, TikToks and YouTube reaction videos: 15 creators, 23 publications, 69.1K views & impressions and 9.3K engagements, a 13.4% engagement rate.",
+   "caveats": [
+    "Eri la Nutria's Spanish-language reaction, cross-posted to Instagram, YouTube and TikTok, drew 57.8K views (84%) and 8.8K engagements (94%).",
+    "TikTok had the highest engagement rate (17.0%), then Instagram (15.3%) and YouTube (8.9%).",
+    "The raw export includes a FightingGM TikTok dated Aug 29 (288 views) and a 6-hour multi-game Xeromessiah VOD (9 views); both are counted, matching the deck.",
+    "1 post (288 views) also counts toward Stranger Than Heaven: Combat Across Three Eras."
+   ],
+   "qid": "q-stranger-than-heaven-act-1-kokura-story-trailer-",
+   "sheet": "STRANGER THAN HEAVEN | Act 1: Kokura Story Trailer Impressions",
+   "formats": {
+    "short": {
+     "n": 14,
+     "views": 66013,
+     "eng": 9230,
+     "plats": [
+      {
+       "name": "YouTube Shorts",
+       "n": 6,
+       "views": 23019,
+       "eng": 2274
+      },
+      {
+       "name": "TikTok",
+       "n": 6,
+       "views": 21889,
+       "eng": 3713
+      },
+      {
+       "name": "Instagram Reels",
+       "n": 2,
+       "views": 21105,
+       "eng": 3243
+      }
+     ]
+    },
+    "long": {
+     "n": 7,
+     "views": 3011,
+     "eng": 37,
+     "plats": [
+      {
+       "name": "YouTube",
+       "n": 6,
+       "views": 2829,
+       "eng": 31
+      },
+      {
+       "name": "Instagram",
+       "n": 1,
+       "views": 182,
+       "eng": 6
+      }
+     ]
+    },
+    "live": {
+     "n": 1,
+     "views": 9,
+     "eng": 0
+    },
+    "posts": {
+     "n": 1,
+     "views": 46,
+     "eng": 0
+    },
+    "note": "",
+    "hits": {
+     "videos": 21,
+     "k10": 3,
+     "k100": 0,
+     "median": 476
+    },
+    "gallery": [
+     {
+      "views": 19524,
+      "eng": 3173,
+      "platform": "Instagram",
+      "kind": "Reel",
+      "creator": "Eri la Nutria 🦦 E&E 💕",
+      "title": "Yakuza, Stranger Than Heaven, Persona 4 y SEGA triunfaron en México y Latinoamérica 🌸✨ Analizamos a fondo el i",
+      "url": "https://www.instagram.com/p/Demwh7fEUiZ/",
+      "date": "2026-10-17"
+     },
+     {
+      "views": 19418,
+      "eng": 2144,
+      "platform": "YouTube",
+      "kind": "Short",
+      "creator": "EriVlt (Eri La Nutria)",
+      "title": "Yakuza, Stranger Than Heaven, Persona 4 y SEGA triunfaron en México y Latinoamérica 🌸✨ #mexico #yakuza #atlus",
+      "url": "https://www.youtube.com/watch?v=Ar15iDoWVGY",
+      "date": "2026-10-17"
+     },
+     {
+      "views": 18854,
+      "eng": 3435,
+      "platform": "TikTok",
+      "kind": "TikTok",
+      "creator": "Erivlt (Eri la Nutria) EyE",
+      "title": "",
+      "url": "https://www.tiktok.com/@user/video/7697705871580663047",
+      "date": "2026-10-17"
+     },
+     {
+      "views": 1803,
+      "eng": 172,
+      "platform": "TikTok",
+      "kind": "TikTok",
+      "creator": "Raven Wing Plays",
+      "title": "Stranger Than Heaven's first act cuts deeper than you think @STRANGER THAN HEAVEN #SEGACreator #STRANGERTHANHE",
+      "url": "https://www.tiktok.com/@user/video/7699904630943190303",
+      "date": "2026-10-23"
+     },
+     {
+      "views": 1581,
+      "eng": 70,
+      "platform": "Instagram",
+      "kind": "Reel",
+      "creator": "HeyYouMikachu | Michaela or Mika",
+      "title": "Stranger than Heaven Act 1: Kokura Story Trailer Reaction ✨ @sth_game #SEGACreator #ad #STRANGERTHANHEAVENpart",
+      "url": "https://www.instagram.com/p/De7YrYvBJ0n/",
+      "date": "2026-10-25"
+     },
+     {
+      "views": 1493,
+      "eng": 86,
+      "platform": "YouTube",
+      "kind": "Short",
+      "creator": "Ariyawna",
+      "title": "A BRAND NEW STORY TRAILER!!!?? this must be Stranger than Heaven! #ariyawna #vtuber #strangerthanheaven",
+      "url": "https://www.youtube.com/watch?v=qPSShkxl_W0",
+      "date": "2026-10-20"
+     }
+    ]
+   },
+   "crew": {
+    "tracked": 15,
+    "returning": 14,
+    "new": 1
+   },
+   "shared": {
+    "posts": 1,
+    "views": 288
    }
+  },
+  {
+   "id": "sth-final",
+   "name": "Stranger Than Heaven Final Impressions",
+   "ip": "rgg",
+   "type": "Reveal & reaction",
+   "start": "2026-10-22",
+   "end": "2026-11-02",
+   "window": "Oct 22 – Nov 2",
+   "vi": 12951,
+   "eng": 348,
+   "pubs": 24,
+   "creators": 16,
+   "basis": "vi",
+   "source": "pdf",
+   "url": "https://docs.google.com/presentation/d/1ggR6YeAz1KFK8ZUs5iHSFNn5ST4D0ZoW4At_MYD1ALI/edit",
+   "platforms": [
+    {
+     "name": "YouTube",
+     "pubs": 13,
+     "vi": 7097,
+     "eng": 145
+    },
+    {
+     "name": "Instagram",
+     "pubs": 6,
+     "vi": 4439,
+     "eng": 131
+    },
+    {
+     "name": "TikTok",
+     "pubs": 5,
+     "vi": 1415,
+     "eng": 72
+    }
+   ],
+   "top": [
+    {
+     "creator": "Erek Ladd",
+     "platform": "YouTube",
+     "format": "",
+     "views": 1960,
+     "eng": 58
+    },
+    {
+     "creator": "Andy (LoveRetroBTW)",
+     "platform": "Instagram",
+     "format": "",
+     "views": 1582,
+     "eng": 36
+    },
+    {
+     "creator": "Patrick Gardner",
+     "platform": "Instagram",
+     "format": "",
+     "views": 1426,
+     "eng": 44
+    },
+    {
+     "creator": "Slick Tactics",
+     "platform": "YouTube",
+     "format": "",
+     "views": 1358,
+     "eng": 5
+    }
+   ],
+   "summary": "Preview creators posted their final impressions of STRANGER THAN HEAVEN ahead of launch: 16 creators and 24 publications not already counted under the NYC Preview Event, for 13.0K views & impressions and 348 engagements.",
+   "caveats": [
+    "Counts only posts not already counted elsewhere. The deck reports 32 posts, 531.4K views and 2.7K engagements; 8 posts (518.5K views, including Ariyawna's 407.8K-view TikTok) are counted under the NYC Preview Event.",
+    "Kori-Maru's Sonic Racing CrossWorlds video (6.0K views, Oct 9) in the raw export is left out as off-topic.",
+    "Engagements are estimated per post from LevelUp engagement rates."
+   ],
+   "qid": "q-stranger-than-heaven-final-impressions",
+   "sheet": "Stranger Than Heaven Final Impressions",
+   "formats": {
+    "short": {
+     "n": 17,
+     "views": 9089,
+     "eng": 272,
+     "plats": [
+      {
+       "name": "Instagram Reels",
+       "n": 5,
+       "views": 4439,
+       "eng": 131
+      },
+      {
+       "name": "YouTube Shorts",
+       "n": 7,
+       "views": 3235,
+       "eng": 69
+      },
+      {
+       "name": "TikTok",
+       "n": 5,
+       "views": 1415,
+       "eng": 72
+      }
+     ]
+    },
+    "long": {
+     "n": 5,
+     "views": 3850,
+     "eng": 76,
+     "plats": [
+      {
+       "name": "YouTube",
+       "n": 5,
+       "views": 3850,
+       "eng": 76
+      }
+     ]
+    },
+    "live": {
+     "n": 1,
+     "views": 12,
+     "eng": 0
+    },
+    "posts": {
+     "n": 1,
+     "views": 0,
+     "eng": 0
+    },
+    "note": "",
+    "hits": {
+     "videos": 22,
+     "k10": 0,
+     "k100": 0,
+     "median": 428
+    },
+    "gallery": [
+     {
+      "views": 1960,
+      "eng": 58,
+      "platform": "YouTube",
+      "kind": "Video",
+      "creator": "Erek Ladd",
+      "title": "STRANGER THAN HEAVEN Could Be a MASTERPIECE #ad #SEGACreator #STRANGERTHANHEAVENpartner",
+      "url": "https://www.youtube.com/watch?v=OVseB-vKzpU",
+      "date": "2026-10-27"
+     },
+     {
+      "views": 1582,
+      "eng": 36,
+      "platform": "Instagram",
+      "kind": "Reel",
+      "creator": "Andy Steig | LoveRetroBTW",
+      "title": "STRANGER THAN HEAVEN is definitely on my radar! The latest IGN and GameSpot previews have me even more intrigu",
+      "url": "https://www.instagram.com/p/De9b0yYA_do/",
+      "date": "2026-10-26"
+     },
+     {
+      "views": 1426,
+      "eng": 44,
+      "platform": "Instagram",
+      "kind": "Reel",
+      "creator": "Patrick Gardner",
+      "title": "My final impressions of STRANGER THAN HEAVEN after reacting to the final preview videos from IGN, GameSpot, an",
+      "url": "https://www.instagram.com/p/De5XuSfhoU3/",
+      "date": "2026-10-25"
+     },
+     {
+      "views": 1358,
+      "eng": 5,
+      "platform": "YouTube",
+      "kind": "Video",
+      "creator": "Slick Tactics",
+      "title": "Stranger Than Heaven - Slick Tactics Final Impressions #ad #STRANGERTHANHEAVENpartner #FinalPreview",
+      "url": "https://www.youtube.com/watch?v=IJN4bLbqp-0",
+      "date": "2026-10-25"
+     },
+     {
+      "views": 1223,
+      "eng": 46,
+      "platform": "Instagram",
+      "kind": "Reel",
+      "creator": "Ariyawna - Snektuber",
+      "title": "IM SO EXCITED YALLL!!! Thank you @sth_game for the opportunity to play!!!!!!! #SEGACreator #strangerthanheaven",
+      "url": "https://www.instagram.com/p/De4-74WMkrQ/",
+      "date": "2026-10-24"
+     },
+     {
+      "views": 1186,
+      "eng": 21,
+      "platform": "YouTube",
+      "kind": "Short",
+      "creator": "Slick Tactics",
+      "title": "Stranger Than Heaven is on my RADAR #ad #STRANGERTHANHEAVENpartner #FinalPreview",
+      "url": "https://www.youtube.com/watch?v=_x97e0s1eoc",
+      "date": "2026-10-25"
+     }
+    ]
+   },
+   "crew": {
+    "tracked": 19,
+    "returning": 16,
+    "new": 3
+   },
+   "viBasis": "Views, each post counted once across Stranger Than Heaven quests"
   }
  ],
  "streams": [
@@ -7222,7 +7744,7 @@ window.__QA_DATA = {
    "ip": "sonic",
    "window": "Oct 9",
    "start": "2026-10-09",
-   "url": "https://claude.ai/artifact/25yL5A6yvRu9bmZt4mC1vC",
+   "url": "",
    "stats": [
     [
      "9,386",
@@ -7248,9 +7770,9 @@ window.__QA_DATA = {
    "id": "ct-cnt-stream",
    "name": "Crazy Taxi: World Tour CNT Weekend",
    "ip": "lic",
-   "window": "Sep 11 \u2013 13",
+   "window": "Sep 11 – 13",
    "start": "2026-09-11",
-   "url": "https://claude.ai/artifact/3yZVEs2WfaYonyQyjYe8nk",
+   "url": "",
    "stats": [
     [
      "7,119",
@@ -7275,7 +7797,7 @@ window.__QA_DATA = {
    "id": "vf-sale",
    "name": "Virtua Fighter Sale & Game Pass Streams",
    "ip": "rgg",
-   "window": "Sep 9 \u2013 10",
+   "window": "Sep 9 – 10",
    "start": "2026-09-09",
    "url": "",
    "stats": [
@@ -7603,8 +8125,8 @@ window.__QA_DATA = {
   {
    "ip": "atlus",
    "order": 9,
-   "title": "Metaphor: ReFantazio \u2013 Nintendo Switch 2 Demo",
-   "sheet": "Metaphor: ReFantazio \u2013 Nintendo Switch 2 Demo",
+   "title": "Metaphor: ReFantazio – Nintendo Switch 2 Demo",
+   "sheet": "Metaphor: ReFantazio – Nintendo Switch 2 Demo",
    "date": null,
    "status": "recap",
    "ref": "metaphor-demo",
@@ -7708,15 +8230,27 @@ window.__QA_DATA = {
   {
    "ip": "rgg",
    "order": 8,
-   "title": "STRANGER THAN HEAVEN | Act 1: Kokura Story Trailer Impressions",
-   "sheet": "STRANGER THAN HEAVEN | Act 1: Kokura Story Trailer Impressions",
+   "title": "Stranger Than Heaven Final Impressions",
+   "sheet": "Stranger Than Heaven Final Impressions",
    "date": null,
-   "status": "pending",
-   "id": "q-stranger-than-heaven-act-1-kokura-story-trailer-"
+   "status": "recap",
+   "ref": "sth-final",
+   "offTracker": true,
+   "id": "q-stranger-than-heaven-final-impressions"
   },
   {
    "ip": "rgg",
    "order": 9,
+   "title": "STRANGER THAN HEAVEN | Act 1: Kokura Story Trailer Impressions",
+   "sheet": "STRANGER THAN HEAVEN | Act 1: Kokura Story Trailer Impressions",
+   "date": null,
+   "status": "recap",
+   "ref": "sth-kokura",
+   "id": "q-stranger-than-heaven-act-1-kokura-story-trailer-"
+  },
+  {
+   "ip": "rgg",
+   "order": 10,
    "title": "Virtua Fighter Sale & Game Pass Streams",
    "sheet": "Virtua Fighter Sale & Game Pass Streams",
    "date": null,
@@ -7727,7 +8261,7 @@ window.__QA_DATA = {
   },
   {
    "ip": "rgg",
-   "order": 10,
+   "order": 11,
    "title": "Stranger Than Heaven Pilot Quests",
    "sheet": "Stranger Than Heaven Pilot Quests",
    "date": null,
@@ -7809,8 +8343,8 @@ window.__QA_DATA = {
   {
    "ip": "lic",
    "order": 5,
-   "title": "Welcome to the West Coast \u2014 Crazy Taxi: World Tour",
-   "sheet": "Welcome to the West Coast \u2014 Crazy Taxi: World Tour 7/28",
+   "title": "Welcome to the West Coast — Crazy Taxi: World Tour",
+   "sheet": "Welcome to the West Coast — Crazy Taxi: World Tour 7/28",
    "date": "Jul 28",
    "status": "recap",
    "ref": "ct-westcoast",
@@ -7982,7 +8516,7 @@ window.__QA_DATA = {
      "#16 (CallieMacN)"
     ]
    ],
-   "url": "https://claude.ai/artifact/25yL5A6yvRu9bmZt4mC1vC",
+   "url": "",
    "source": "SullyGnome",
    "qid": "q-sonic-crossworlds-finale-costreaming",
    "official": null,
@@ -7990,10 +8524,10 @@ window.__QA_DATA = {
    "actions": [
     [
      "13",
-     "program channels in CrossWorlds\u2019 top-100 Twitch channels"
+     "program channels in CrossWorlds’ top-100 Twitch channels"
     ]
    ],
-   "category": "13 program channels ranked in Sonic Racing: CrossWorlds\u2019 top-100 Twitch channels on finals day; best rank #16 (CallieMacN)."
+   "category": "13 program channels ranked in Sonic Racing: CrossWorlds’ top-100 Twitch channels on finals day; best rank #16 (CallieMacN)."
   },
   {
    "id": "atlus",
@@ -8001,7 +8535,7 @@ window.__QA_DATA = {
    "name": "Atlus Developer Sale Stream-A-Thon",
    "ip": "atlus",
    "start": "2026-09-24",
-   "window": "Sep 24 \u2013 Oct 1",
+   "window": "Sep 24 – Oct 1",
    "format": "Official + creator channels",
    "channel": "Atlus West Twitch + 19 creator channels",
    "creators": 19,
@@ -8026,7 +8560,7 @@ window.__QA_DATA = {
      "8,758"
     ]
    ],
-   "url": "https://claude.ai/artifact/7R77Qc6eXap8jThQkCbgm2",
+   "url": "",
    "source": "Atlus West Twitch analytics, SullyGnome, YouTube Studio",
    "qid": "q-atlus-developer-sale-livestreams",
    "official": {
@@ -8046,7 +8580,7 @@ window.__QA_DATA = {
    "name": "Crazy Taxi: World Tour CNT Streaming Weekend",
    "ip": "lic",
    "start": "2026-09-11",
-   "window": "Sep 11 \u2013 13",
+   "window": "Sep 11 – 13",
    "format": "SEGA channel host + creator channels",
    "channel": "SEGA Twitch + creator channels",
    "creators": 16,
@@ -8071,7 +8605,7 @@ window.__QA_DATA = {
      "6,113"
     ]
    ],
-   "url": "https://claude.ai/artifact/3yZVEs2WfaYonyQyjYe8nk",
+   "url": "",
    "source": "LevelUp, Twitch analytics",
    "qid": "q-crazy-taxi-world-tour-cnt-streaming-weekend",
    "official": {
@@ -8084,7 +8618,7 @@ window.__QA_DATA = {
     "live": 9429
    },
    "creatorWatch": 7119,
-   "category": "Program creators were 1 in 5 of Crazy Taxi\u2019s top-100 Twitch channels that weekend (19 creators plus SEGA\u2019s channel at #8), with 27% of top-100 airtime."
+   "category": "Program creators were 1 in 5 of Crazy Taxi’s top-100 Twitch channels that weekend (19 creators plus SEGA’s channel at #8), with 27% of top-100 airtime."
   },
   {
    "id": "shinobi",
@@ -8092,7 +8626,7 @@ window.__QA_DATA = {
    "name": "SHINOBI: Art of Vengeance Switch 2 Launch Streams",
    "ip": "lic",
    "start": "2026-09-24",
-   "window": "Sep 24 \u2013 27",
+   "window": "Sep 24 – 27",
    "format": "SEGA channel host",
    "channel": "SEGA Twitch",
    "creators": 12,
@@ -8137,7 +8671,7 @@ window.__QA_DATA = {
    "name": "Virtua Fighter Sale & Game Pass Streams",
    "ip": "rgg",
    "start": "2026-09-09",
-   "window": "Sep 9 \u2013 10",
+   "window": "Sep 9 – 10",
    "format": "SEGA channel host",
    "channel": "SEGA Twitch",
    "creators": null,
@@ -8438,19 +8972,19 @@ window.__QA_DATA = {
   }
  ],
  "program": {
-  "unique": 244,
-  "quests": 33,
-  "activations": 680,
-  "repeat2": 144,
-  "repeat5": 39,
+  "unique": 246,
+  "quests": 35,
+  "activations": 713,
+  "repeat2": 147,
+  "repeat5": 42,
   "dist": [
    {
     "q": 1,
-    "n": 100
+    "n": 99
    },
    {
     "q": 2,
-    "n": 53
+    "n": 52
    },
    {
     "q": 3,
@@ -8458,34 +8992,34 @@ window.__QA_DATA = {
    },
    {
     "q": 4,
-    "n": 20
+    "n": 21
    },
    {
     "q": 5,
-    "n": 9
+    "n": 10
    },
    {
     "q": 6,
-    "n": 11
+    "n": 10
    },
    {
     "q": 7,
-    "n": 6
-   },
-   {
-    "q": 8,
     "n": 5
    },
    {
+    "q": 8,
+    "n": 7
+   },
+   {
     "q": 9,
-    "n": 2
+    "n": 4
    },
    {
     "q": 10,
     "n": 1
    },
    {
-    "q": 12,
+    "q": 14,
     "n": 1
    },
    {
@@ -8494,41 +9028,45 @@ window.__QA_DATA = {
    },
    {
     "q": 16,
-    "n": 2
+    "n": 1
    },
    {
     "q": 18,
+    "n": 1
+   },
+   {
+    "q": 20,
     "n": 1
    }
   ],
   "tiers": [
    {
     "tier": "Nano",
-    "acts": 430,
-    "views": 3156985.0,
-    "eng": 147997.0,
-    "range": "0\u201310,000"
+    "acts": 456,
+    "views": 4107255.0,
+    "eng": 149362.0,
+    "range": "0–10,000"
    },
    {
     "tier": "Micro",
-    "acts": 197,
-    "views": 1999408.0,
-    "eng": 150119.0,
-    "range": "10,000\u2013100,000"
+    "acts": 202,
+    "views": 2204241.0,
+    "eng": 151809.0,
+    "range": "10,000–100,000"
    },
    {
     "tier": "Mid",
-    "acts": 46,
-    "views": 4670304,
-    "eng": 265475,
-    "range": "100,000\u2013500,000"
+    "acts": 48,
+    "views": 4728986,
+    "eng": 274248,
+    "range": "100,000–500,000"
    },
    {
     "tier": "Macro",
     "acts": 3,
     "views": 41803,
     "eng": 4950,
-    "range": "500,000\u20131,000,000"
+    "range": "500,000–1,000,000"
    },
    {
     "tier": "Mega",
@@ -8571,11 +9109,15 @@ window.__QA_DATA = {
    },
    {
     "month": "2026-10",
-    "active": 9,
-    "new": 3,
-    "returning": 6
+    "active": 26,
+    "new": 5,
+    "returning": 21
    }
-  ]
+  ],
+  "shared": {
+   "posts": 38,
+   "views": 87600
+  }
  },
  "cpmBench": {
   "groups": [
@@ -8616,7 +9158,7 @@ window.__QA_DATA = {
     "name": "Paid creator sponsorships",
     "rows": [
      {
-      "label": "Instagram Reels, micro creators (10K\u2013100K)",
+      "label": "Instagram Reels, micro creators (10K–100K)",
       "lo": 8,
       "hi": 25,
       "src": "IQFluence, influencer CPM 2026",
@@ -8663,7 +9205,7 @@ window.__QA_DATA = {
   "examples": [
    {
     "label": "Dragon City (mobile game) paid TikTok creator campaign",
-    "text": "Set a $4\u2013$5 CPM target and reported beating it by more than 50%.",
+    "text": "Set a $4–$5 CPM target and reported beating it by more than 50%.",
     "src": "House of Marketers case study",
     "url": "https://houseofmarketers.com/dragon-city-tiktok-gaming-case-study/"
    },

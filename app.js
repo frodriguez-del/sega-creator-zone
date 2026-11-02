@@ -601,7 +601,7 @@
         ['Engagements', fmt(c.eng), 'Likes, comments, shares, saves'],
         ['Engagement rate', pct(erOf(c)), c.basis === 'video' ? 'Reads high: video views only' : 'Engagements ÷ views & impressions'],
         ['Content pieces', c.pubs, `${fmt(c.vi / c.pubs)} views & impressions per piece`],
-        ['Creators', c.creators, c.crew ? `${c.crew.returning} of ${c.crew.tracked} tracked had joined an earlier quest` : 'Unique creators in this quest'],
+        ['Creators', c.creators, c.crew ? `In the LevelUp export, ${c.crew.returning} of ${c.crew.tracked} creators had joined an earlier quest` : 'Unique creators in this quest'],
         ['Platforms', c.platforms.length, c.platforms.map(p => p.name).join(', ')],
         ['Top post', c.top[0] && c.top[0].views != null ? fmt(topV(c)) : '—', topT(c) ? `${topT(c).creator} · ${topT(c).platform}` : 'No post-level data'],
         ['Total measured exposure', fmt(c.vi + c.eng), 'Views & impressions + engagements, as most decks report it']
@@ -614,13 +614,13 @@
         ${actionsBox(c.actions)}${costBox(c)}
         ${c.split ? `<div class="panel dbox"><h3>Organic vs paid</h3><div class="hbars">${hbar(c.split.map(x => ({ name: x.label, v: x.vi, color: col(c.ip), tip: `<b>${x.label}</b><br>${fmt(x.vi)} views &amp; impressions<br>${fmt(x.eng)} engagements · ${pct(x.eng / x.vi)}<br>${x.pubs} pieces · ${x.creators} creators` })), Math.max(...c.split.map(x => x.vi)), fmt)}</div></div>` : ''}
         ${c.stream ? `<div class="panel dbox"><h3>Streaming</h3><div class="sstats">${c.stream.map(([v, l]) => `<div><b class="num">${esc(v)}</b><span>${esc(l)}</span></div>`).join('')}</div></div>` : ''}
-        <div class="panel dbox"><h3>Notes</h3>${cav(c).length ? `<ul>${cav(c).map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : '<p>No caveats noted in the recap.</p>'}<p style="font-size:13px" class="muted">Tracker title: ${esc(c.sheet || q.sheet)}</p>${c.url ? `<a class="deck" href="${esc(c.url)}" target="_blank" rel="noopener">Open the full recap deck ↗</a>` : `<p style="font-size:13px" class="muted">${c.source === 'export' ? (EXTERNAL ? 'Source: LevelUp campaign data.' : 'Source: LevelUp campaign export. Recap deck not built yet.') : 'Source: recap deck shared as a PDF; no hosted link yet.'}</p>`}</div>
+        <div class="panel dbox"><h3>Notes</h3>${cav(c).length ? `<ul>${cav(c).map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : '<p>No caveats noted in the recap.</p>'}<p style="font-size:13px" class="muted">Tracker title: ${esc(c.sheet || q.sheet)}</p>${c.url ? `<a class="deck" href="${esc(c.url)}" target="_blank" rel="noopener">Open the full recap deck ↗</a>` : `<p style="font-size:13px" class="muted">${c.source === 'export' ? (EXTERNAL ? 'Source: LevelUp campaign data.' : 'Source: LevelUp campaign export. Recap deck not built yet.') : 'Source: Creator Zone recap deck.'}</p>`}</div>
       </div></section>
       <section><div class="panel tscroll">${platformTable([c])}</div></section>${formatSection([c])}${gallerySection([c], 6, 'q-gallery')}${c.weeks ? weekTable(c.weeks) : ''}`;
     } else if (s) {
       const st = STRM.find(x => x.qid === q.id);
       body = `<section><div class="kpis">${s.stats.map(([v, l], k) => `<div class="panel kpi${k === 0 ? ' hero-k' : ''}"><div class="v num">${esc(v)}</div><div class="l">${esc(l)}</div><div class="s"></div></div>`).join('')}</div></section>
-      <section><div class="panel dbox"><h3>Notes</h3><p>${esc(s.note)}</p><p style="font-size:13px" class="muted">Tracker title: ${esc(q.sheet)}</p>${s.url ? `<a class="deck" href="${esc(s.url)}" target="_blank" rel="noopener">Open the full recap deck ↗</a>` : '<p style="font-size:13px" class="muted">Source: recap deck shared as a PDF; no hosted link yet.</p>'}</div></section>
+      <section><div class="panel dbox"><h3>Notes</h3><p>${esc(s.note)}</p><p style="font-size:13px" class="muted">Tracker title: ${esc(q.sheet)}</p>${s.url ? `<a class="deck" href="${esc(s.url)}" target="_blank" rel="noopener">Open the full recap deck ↗</a>` : '<p style="font-size:13px" class="muted">Source: Creator Zone recap deck.</p>'}</div></section>
       ${st && (st.actions || st.category) ? `<section><div class="dgrid">${actionsBox(st.actions)}${st.category ? `<div class="panel dbox"><h3>Share of the game's Twitch audience</h3><p>${esc(st.category)}</p></div>` : ''}</div></section>` : ''}`;
     } else if (q.status === 'notneeded') {
       body = `<section><div class="placeholder"><h3>No recap needed</h3><p>This row on the program tracker is a seeding, licensing or umbrella item rather than a creator quest, so no recap is planned. Tracker title: <b>${esc(q.sheet)}</b>.</p></div></section>`;
@@ -795,12 +795,13 @@
           <dt>Engagement rate</dt><dd>Engagements divided by views &amp; impressions. Program and IP rates leave out Club Chaos, whose recap reports video views only.</dd>
           <dt>Content pieces</dt><dd>Tracked creator publications: videos, posts, VODs and livestreams.</dd>
           <dt>Creator activations</dt><dd>Creators counted once per quest, so a creator in three quests counts three times.</dd>
-          <dt>Which number we use</dt><dd>Each quest shows the views &amp; impressions figure from its own recap deck. Most decks count views; newer decks add tracked impressions where available. Quests with no deck yet use LevelUp views from the raw export.</dd>
+          <dt>Which number we use</dt><dd>Each quest shows the views &amp; impressions figure from its own recap deck. Most decks count views; newer decks add tracked impressions where available. Quests without a recap deck use LevelUp views directly.</dd>
           <dt>IP groups</dt><dd>Quests sit under the IP tab they have on the program tracker. Publisher sales, Kura Sushi and Crazy Taxi quests are on the SEGA &amp; Licensing tab.</dd>
         </dl></div>
         <div class="panel dbox"><h3>Known overlaps and caveats</h3><ul>
           <li>Jaden's Instagram Reel is counted in both the Year 2 and Club Chaos recaps (about 86K engagements in each).</li>
-          <li>Some posts were cross-posted to both Crazy Taxi quests (Crazy Taxi Arrives in Sonic Racing and Axel's Double Shift).</li>
+          ${D.program.shared ? `<li>${D.program.shared.posts} posts (about ${fmt(D.program.shared.views)} views) appear in more than one quest's export, mostly multi-game reaction videos and posts covering two sales. Each quest's recap counts them, so they are counted in each; that is under 1% of program views. Each quest's notes list its shared posts.</li>` : ''}
+          <li>Stranger Than Heaven NYC Preview, Final Impressions and Act 1: Kokura are de-duplicated: each post counts once, under the first quest that tracked it (Kokura, then NYC Preview). Their recap decks report each quest's full totals.</li>
           <li>KhloeCosmos' Twitch stream (2,016 views) appears in both the Metaphor Switch 2 announcement and Stranger Than Heaven recaps.</li>
           <li>Crazy Taxi Arrives in Sonic Racing is on both the Sonic and SEGA &amp; Licensing tabs; it is counted once, under Sonic.</li>
           <li>Single posts drive several results: Eri la Nutria's Reel (582K views, RGG sale), Frack's Sonic Deals on X (274K, Seattle) and Jaden's Reel (807K, Year 2).</li>
@@ -808,12 +809,12 @@
           <li>Kura Sushi x Persona includes a paid activation (29 posts). All other quests are organic.</li>
           <li>Chaos Emerald Hunt and Sonic x Fortnite totals come from the Sonic 35th anniversary table in the Club Chaos recap, which has no platform split. The weekly Creator Zone quests and city stops are rolled into the Chaos Hunt total.</li>
           <li>That same table lists Art Gallery Seattle at 622K because it adds 304.9K post impressions; this hub uses the Seattle recap's 316.7K views.</li>
-          <li>Quests marked “Data · no deck yet” use the raw LevelUp export, not yet reviewed for off-topic posts. Where a deck also exists, the deck has come in at or below the raw export.</li>
+          <li>Quests without a finished recap deck use LevelUp campaign data directly.</li>
           <li>SHINOBI's LevelUp window starts Jun 18, so its total may include content from the Switch 2 announcement quest.</li>
           <li>Creator participation data is not included in this hub.</li>
         </ul></div>
       </div></section>
-      <section><div class="panel dbox"><h3>Recap decks used</h3><ul class="sources">${Array.from(urls).map(([u, n]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(n.join(' / '))}</a></li>`).join('')}${pdfOnly.map(n => `<li>${esc(n)} <span class="muted">(PDF recap)</span></li>`).join('')}${exportOnly.map(n => `<li>${esc(n)} <span class="muted">(LevelUp export)</span></li>`).join('')}</ul></div></section>
+      <section><div class="panel dbox"><h3>Recap decks used</h3><ul class="sources">${Array.from(urls).map(([u, n]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(n.join(' / '))}</a></li>`).join('')}${pdfOnly.map(n => `<li>${esc(n)} <span class="muted">(recap deck)</span></li>`).join('')}${exportOnly.map(n => `<li>${esc(n)} <span class="muted">(LevelUp export)</span></li>`).join('')}</ul></div></section>
     </div></main>`;
   }
 
